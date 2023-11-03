@@ -1,0 +1,13 @@
+id_industria;codigo;Industria
+1;XLC;Communication Services
+2;XLY;Consumer Discretionary
+3;XLP;Consumer Staples
+4;XLE;Energy
+5;XLF;Financials
+6;XLV;Health Care
+7;XLI;Industrials
+8;XLK;Information Technology
+9;XLB;Materials
+10;XLRE;Real Estate
+11;XLU;Utilities
+12;SP500;Global
