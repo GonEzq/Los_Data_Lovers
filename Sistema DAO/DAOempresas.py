@@ -7,7 +7,7 @@ from DAOlocalizacion import DAOlocalizacion
 class DAOempresas(DAO):
     def __init__(self):
         super().__init__()
-        self.rutaExel = 'C:\\Users\\mateo\\OneDrive\\Escritorio\\Proyectos\\Proyecto TSCDIA\\LISTA DE EMPRESAS DEL SP500.xls'
+        self.rutaExel = 'Sistema DAO\\LISTA DE EMPRESAS DEL SP500.xls'
         self.empresas = 'Composición SP500'
 
     def INSERTexle(self):
@@ -146,6 +146,8 @@ class DAOempresas(DAO):
             FROM empresas e, industria i, subindustria s,localizacion l 
             WHERE e.tipoindustria = i.id_tipoindustria AND e.subindustria = s.id_subindustria AND e.localizacion = l.id_localizacion ORDER BY e.Capitalizacion DESC LIMIT 1"""
 
+            print("Nombre | Industria | Sub_Industria | Estado | Valor_del_Mercado | Empleados")
+
             for columna in self.consultar(sql):
                 print(f"{columna[0]} | {columna[1]} | {columna[2]} | {columna[3]} | {columna[4]} | {columna[5]}")
 
@@ -154,6 +156,8 @@ class DAOempresas(DAO):
             sql = """SELECT e.nombre_empresa AS Nombre, i.Mercado AS Industria, s.Especializacion AS Sub_Industia, l.estado AS Estado, FORMAT(e.Capitalizacion, 0) AS Valor_de_Mercado, FORMAT(e.Empleados, 0) AS Empleados
             FROM empresas e, industria i, subindustria s,localizacion l 
             WHERE e.tipoindustria = i.id_tipoindustria AND e.subindustria = s.id_subindustria AND e.localizacion = l.id_localizacion ORDER BY e.Empleados DESC LIMIT 1"""
+
+            print("Nombre | Industria | Sub_Industria | Estado | Valor_del_Mercado | Empleados")
 
             for columna in self.consultar(sql):
                 print(f"{columna[0]} | {columna[1]} | {columna[2]} | {columna[3]} | {columna[4]} | {columna[5]}")
@@ -197,4 +201,89 @@ class DAOempresas(DAO):
                 print(f"La Localizacion ingresada no se encuentra en la Tabla localizacion {verificar}, sera agregada.")
                 localizacion.INSERT(verificar)
 
+    def crearDataBase(self):
+        sql = """-- MySQL Workbench Forward Engineering
+
+        SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
+        SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
+        SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION';
+
+        -- -----------------------------------------------------
+        -- Schema mydb
+        -- -----------------------------------------------------
+
+        -- -----------------------------------------------------
+        -- Schema mydb
+        -- -----------------------------------------------------
+        CREATE SCHEMA IF NOT EXISTS `mydb` DEFAULT CHARACTER SET utf8 ;
+        USE `mydb` ;
+
+        -- -----------------------------------------------------
+        -- Table `mydb`.`Industria`
+        -- -----------------------------------------------------
+        CREATE TABLE IF NOT EXISTS `mydb`.`Industria` (
+            `id_tipoindustria` INT NOT NULL AUTO_INCREMENT,
+            `Mercado` VARCHAR(100) NOT NULL,
+            PRIMARY KEY (`id_tipoindustria`))
+        ENGINE = InnoDB;
+
+
+        -- -----------------------------------------------------
+        -- Table `mydb`.`Subindustria`
+        -- -----------------------------------------------------
+        CREATE TABLE IF NOT EXISTS `mydb`.`Subindustria` (
+            `id_subindustria` INT NOT NULL AUTO_INCREMENT,
+            `Especializacion` VARCHAR(100) NOT NULL,
+            PRIMARY KEY (`id_subindustria`))
+        ENGINE = InnoDB;
+
+
+        -- -----------------------------------------------------
+        -- Table `mydb`.`Localizacion`
+        -- -----------------------------------------------------
+        CREATE TABLE IF NOT EXISTS `mydb`.`Localizacion` (
+            `id_localizacion` INT NOT NULL AUTO_INCREMENT,
+            `estado` VARCHAR(100) NOT NULL,
+            PRIMARY KEY (`id_localizacion`))
+        ENGINE = InnoDB;
+
+
+        -- -----------------------------------------------------
+        -- Table `mydb`.`Empresas`
+        -- -----------------------------------------------------
+        CREATE TABLE IF NOT EXISTS `mydb`.`Empresas` (
+            `id_empresa` INT NOT NULL AUTO_INCREMENT,
+            `nombre_empresa` VARCHAR(100) NOT NULL,
+            `tipoindustria` INT NOT NULL,
+            `subindustria` INT NOT NULL,
+            `localizacion` INT NOT NULL,
+            `Capitalizacion` FLOAT NOT NULL,
+            `Empleados` INT NOT NULL,
+            PRIMARY KEY (`id_empresa`, `tipoindustria`, `subindustria`, `localizacion`),
+            INDEX `fk_Empresas_Industria1_idx` (`tipoindustria` ASC) VISIBLE,
+            INDEX `fk_Empresas_Subindustria1_idx` (`subindustria` ASC) VISIBLE,
+            INDEX `fk_Empresas_Localizacion1_idx` (`localizacion` ASC) VISIBLE,
+            CONSTRAINT `fk_Empresas_Industria1`
+                FOREIGN KEY (`tipoindustria`)
+                REFERENCES `mydb`.`Industria` (`id_tipoindustria`)
+                ON DELETE NO ACTION
+                ON UPDATE NO ACTION,
+            CONSTRAINT `fk_Empresas_Subindustria1`
+                FOREIGN KEY (`subindustria`)
+                REFERENCES `mydb`.`Subindustria` (`id_subindustria`)
+                ON DELETE NO ACTION
+                ON UPDATE NO ACTION,
+            CONSTRAINT `fk_Empresas_Localizacion1`
+                FOREIGN KEY (`localizacion`)
+                REFERENCES `mydb`.`Localizacion` (`id_localizacion`)
+                ON DELETE NO ACTION
+                ON UPDATE NO ACTION)
+        ENGINE = InnoDB;
+
+
+        SET SQL_MODE=@OLD_SQL_MODE;
+        SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
+        SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;"""
+
+        super().crearDataBase(sql)
         

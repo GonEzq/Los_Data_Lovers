@@ -7,26 +7,33 @@ empresa = DAOempresas()
 def MENU():
     
     print("/// MENU ///")
-    print("1_ Insert")
-    print("2_ Insert Exel")
-    print("3_ Select")
-    print("4_ Update")
-    print("5_ Delete")
-    print("6_ Salir")
+    print("1_ Crear La Base de Datos (Se debe hacer una sola vez)")
+    print("2_ Insert")
+    print("3_ Insert Exel")
+    print("4_ Select")
+    print("5_ Update")
+    print("6_ Delete")
+    print("7_ Salir")
 
     opc = int(input("Ingrese la opcion a seguir "))
 
     if opc == 1:
 
-        empresa.INSERTManual()
+        empresa.crearDataBase()
+        print("Base de Datos creada")
         MENU()
 
     elif opc == 2:
 
-        empresa.INSERTexle()
+        empresa.INSERTManual()
         MENU()
 
     elif opc == 3:
+
+        empresa.INSERTexle()
+        MENU()
+
+    elif opc == 4:
 
         print("/// MENU SELECT ///")
         print("1_ Mostrar todas las empresas")
@@ -38,13 +45,13 @@ def MENU():
         empresa.SELECT(opc)
         MENU()
 
-    elif opc == 4:
+    elif opc == 5:
 
         columna = input("Ingrese el nombre de la columna a cambiar en la tambla empresas: ")
         empresa.UPDATE(columna)
         MENU()
 
-    elif opc == 5:
+    elif opc == 6:
         
         empresa.DELETE()
         MENU()
