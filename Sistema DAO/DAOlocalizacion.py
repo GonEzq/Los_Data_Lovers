@@ -15,8 +15,19 @@ class DAOlocalizacion(DAO.DAO):
         for index, row in df.iterrows():
             #El id es autoincremental
             ciudad = row['Localización']
-            pais = row['País']
-            sql = f"INSERT INTO localizacion (radicacion, pais) VALUES ('{ciudad}', '{pais}')"
+            sql = f"INSERT INTO localizacion (estado) VALUES ('{ciudad}')"
             self.insertarModificrEliminar(sql)
         
         self.desconectar()
+
+    def INSERT(self, estado):
+
+        self.conectar()
+
+        sql = f"INSERT INTO localizacion (estado) VALUES ('{estado}')"
+
+        self.insertarModificrEliminar(sql)
+
+        self.desconectar()
+
+        return estado

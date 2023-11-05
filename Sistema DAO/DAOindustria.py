@@ -15,7 +15,19 @@ class DAOindustria(DAO.DAO):
         for index, row in df.iterrows():
             #El id es autoincremental
             nombreIndustria = row['Industria']
-            sql = f"INSERT INTO industria (mercado) VALUES ('{nombreIndustria}')"
+            sql = f"INSERT INTO industria (Mercado) VALUES ('{nombreIndustria}');"
             self.insertarModificrEliminar(sql)
         
         self.desconectar()
+
+    def INSERT(self, Mercado):
+
+        self.conectar()
+
+        sql = f"INSERT INTO industria (Mercado) VALUES ('{Mercado}')"
+
+        self.insertarModificrEliminar(sql)
+
+        self.desconectar()
+
+        return Mercado

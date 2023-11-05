@@ -4,8 +4,8 @@ class  DAO:
 
     def __init__(self):
         self.conn = None
-        self.conectar()
         self.connected = False
+        self.conectar()
 
     # Coneccion
     def conectar(self):
@@ -13,15 +13,12 @@ class  DAO:
             self.conn = mysql.connector.connect(user='root', password = 'root', host = 'localhost', database = 'mydb', port = '3306' )
             self._cursor = self.conn.cursor()
             if self.conn.is_connected():
-                print("Conectando")
                 self.connected = True
     #--------------------------------------------------
     # Desconeccion
     def desconectar(self):
         self.connected = False
         self.conn.close()
-        if self.conn:
-            print("Desconectado")
     #------------------------------------------------------
     # Cosultas a la Base de Datos
     def consultar(self, sql):
