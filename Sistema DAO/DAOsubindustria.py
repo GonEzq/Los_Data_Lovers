@@ -5,13 +5,13 @@ class DAOsubindustria(DAO.DAO):
     
     def __init__(self):
         super().__init__()
-        self.subIndustria = 'Sub_industria'
+        self.subIndustria = 'Sub_industria '
 
     def INSERTexel(self, rutaExel):
 
         self.conectar()
 
-        df = pd.read_exel(rutaExel, sheet_name = self.subIndustria) # Cargo la hoja Sub_industria
+        df = pd.read_excel(rutaExel, sheet_name = self.subIndustria) # Cargo la hoja Sub_industria
         for index, row in df.iterrows():
             #El id es autoincremental
             nombreSubIndustria = row['Sub_industria']
@@ -19,3 +19,15 @@ class DAOsubindustria(DAO.DAO):
             self.insertarModificrEliminar(sql)
 
         self.desconectar()
+
+    def INSERT(self, Especializacion):
+
+        self.conectar()
+
+        sql = f"INSERT INTO subindustria (Especializacion) VALUES ('{Especializacion}')"
+
+        self.insertarModificrEliminar(sql)
+
+        self.desconectar()
+
+        return Especializacion
