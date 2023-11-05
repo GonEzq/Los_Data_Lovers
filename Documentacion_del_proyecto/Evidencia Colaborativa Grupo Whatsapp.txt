@@ -1,0 +1,1242 @@
+27/9/23, 17:21 - +54 9 351 342-3160: me salen asi
+27/9/23, 18:11 - Silvana Godoy: Me salieron ordenadas y las pude descargar a csv
+27/9/23, 18:12 - Silvana Godoy: A la noche lo vemos
+27/9/23, 18:19 - +54 9 351 342-3160: u genial
+27/9/23, 18:58 - TSCDIA Paola Navarro: Barbaro Sil!!!👏👏
+27/9/23, 19:08 - Silvana Godoy: @5493513423160 lo logré con bs4!!! así que el código es correcto, debemos adaptarlo a la pag que querramos scrapear, yo lo probé con la misma web que usa el youtuber. Ahí paso los archivos si querés ir mirando
+27/9/23, 19:09 - Silvana Godoy: https://www.youtube.com/watch?v=XaHC6axF5kc&list=PLN7hhtTE1n3aqgaRQVCXiACPXNfVKB5lr&index=3&t=730s
+27/9/23, 19:10 - Silvana Godoy: 👆🏼ese es el tutorial ... de pokemon tbm... parece que les encanta a los youtubers
+27/9/23, 19:11 - Silvana Godoy: ‎pokemon.py (archivo adjunto)
+pokemon.py
+27/9/23, 19:11 - Silvana Godoy: ‎Pokemones.xlt (archivo adjunto)
+Pokemones.xlt
+27/9/23, 19:29 - +54 9 351 342-3160: Ok
+27/9/23, 19:29 - +54 9 351 342-3160: Dale ya lo voy a ver
+27/9/23, 22:00 - Silvana Godoy: Chicos ... cuando quieran
+27/9/23, 22:01 - +54 9 351 342-3160: recien termino yo
+27/9/23, 22:01 - +54 9 351 342-3160: jaja
+27/9/23, 22:01 - +54 9 351 342-3160: quien arma la meet
+27/9/23, 22:01 - +54 9 351 342-3160: estaria listo
+27/9/23, 22:01 - Silvana Godoy: Ok
+27/9/23, 22:04 - +54 9 351 342-3160: alguien mas?
+27/9/23, 22:05 - TSCDIA - Mateo Beltramone: Yo estoy
+27/9/23, 22:05 - +54 9 351 352-5134: yo igual
+27/9/23, 22:05 - Silvana Godoy: Ya paso el link
+27/9/23, 22:05 - TSCDIA Paola Navarro: Para unirte a la reunión en Google Meet, haz clic en este vínculo: 
+https://meet.google.com/eyo-ccmp-rcn 
+ 
+O abre Meet y escribe este código: eyo-ccmp-rcn
+27/9/23, 22:06 - Silvana Godoy: https://meet.google.com/xvv-gyaf-nqp
+27/9/23, 22:06 - TSCDIA - Mateo Beltramone: Cuál de los dos
+27/9/23, 22:06 - Silvana Godoy: cual?
+27/9/23, 22:06 - TSCDIA Paola Navarro: Vamos con el tuyoo Sil😂😂
+27/9/23, 22:07 - Silvana Godoy: ok
+27/9/23, 23:07 - Silvana Godoy: ‎Athletics_at_the_2020_Summer_Olympics.py (archivo adjunto)
+Athletics_at_the_2020_Summer_Olympics.py
+27/9/23, 23:07 - Silvana Godoy: ‎fifa.py (archivo adjunto)
+fifa.py
+27/9/23, 23:07 - Silvana Godoy: ‎SP500-bs4.py (archivo adjunto)
+SP500-bs4.py
+27/9/23, 23:07 - Silvana Godoy: ‎tablas-pandas.py (archivo adjunto)
+tablas-pandas.py
+27/9/23, 23:08 - Silvana Godoy: ‎Athletics_at_the_2020_Summer_Olympics_MEN.xlt (archivo adjunto)
+Athletics_at_the_2020_Summer_Olympics_MEN.xlt
+27/9/23, 23:08 - Silvana Godoy: ‎List_of_S%26P_500_companies.xlt (archivo adjunto)
+List_of_S%26P_500_companies.xlt
+27/9/23, 23:08 - Silvana Godoy: ‎fifa_worldcup_data_2022.xlt (archivo adjunto)
+fifa_worldcup_data_2022.xlt
+28/9/23, 13:55 - Silvana Godoy: Buenass...ahí estuve completando el trello, cuando verlo me dicen si se entiende.  Gracias!
+28/9/23, 13:57 - TSCDIA Paola Navarro: Buen dia Sil👋👋.Ok👍
+28/9/23, 13:58 - TSCDIA Paola Navarro: No he podido abrir los archivos Py que enviaste🥲
+28/9/23, 14:11 - +54 9 351 342-3160: te quedo lindo che
+28/9/23, 14:17 - Silvana Godoy: Desde vsc?
+28/9/23, 14:18 - Silvana Godoy: Ta pintoresco...jaja... vean que se puede agregar y fundamentalmente si se entienden los pasos
+30/9/23, 14:39 - +54 9 351 342-3160: buenas grupo
+30/9/23, 14:41 - +54 9 351 342-3160: consulta para sil, vi que en trello pusiste la parte de repositorio github
+30/9/23, 14:41 - +54 9 351 342-3160: ispc-programador2022
+30/9/23, 14:42 - +54 9 351 342-3160: Tenemos que crear dentro de este repositorio una carpeta con nuestro grupo
+30/9/23, 14:42 - +54 9 351 342-3160: eso entendi?
+30/9/23, 16:41 - Silvana Godoy: Buenas a tod@s!
+30/9/23, 16:42 - Silvana Godoy: ‎PTT-20230930-WA0014.opus (archivo adjunto)
+30/9/23, 17:46 - +54 9 351 342-3160: aaaa, vos decís que tenemos que armar un github completo del grupo
+30/9/23, 17:47 - +54 9 351 342-3160: yo pense que lo haciamos desde uno de nosotros
+30/9/23, 17:47 - +54 9 351 342-3160: ahora lo veo de nuevo
+2/10/23, 19:12 - +54 9 351 342-3160: jjaja quien habla
+2/10/23, 19:12 - +54 9 351 342-3160: ?
+2/10/23, 19:15 - TSCDIA Paola Navarro: Vos o Sil que son los que la tienen mas clara😅😅 <Se editó este mensaje.>
+2/10/23, 19:15 - +54 9 351 342-3160: jaja
+2/10/23, 19:16 - +54 9 351 342-3160: justo le dije a la profe
+2/10/23, 19:16 - TSCDIA Paola Navarro: Sip
+2/10/23, 19:58 - Silvana Godoy: Buenasss
+2/10/23, 19:58 - TSCDIA - Mateo Beltramone: Buenas
+2/10/23, 19:58 - Silvana Godoy: Ya quedó el script muy bonito de la tabla que les presente la semana pasada
+2/10/23, 19:58 - Silvana Godoy: Luego lo paso...ahora estoy en el celu
+2/10/23, 19:59 - Silvana Godoy: Buscando de donde sacar info encontré Yahoo Finance
+2/10/23, 19:59 - Silvana Godoy: Tira toda la data histórica
+2/10/23, 20:00 - Silvana Godoy: Podríamos scrapear esa para combinar con la que ya tenemos
+2/10/23, 20:01 - Silvana Godoy: Nos juntamos miércoles a las 22 hs?
+2/10/23, 20:01 - TSCDIA - Mateo Beltramone: sep
+2/10/23, 20:02 - +54 9 11 5057-6958: Sip
+2/10/23, 20:07 - +54 9 351 342-3160: si
+2/10/23, 20:07 - TSCDIA Paola Navarro: Sip
+2/10/23, 20:09 - +54 9 351 352-5134: sisi
+4/10/23, 21:22 - Silvana Godoy: Buenasss
+4/10/23, 21:22 - TSCDIA - Mateo Beltramone: Hola
+4/10/23, 21:22 - Silvana Godoy: Nos juntamos a las 22?
+4/10/23, 21:22 - +54 9 351 342-3160: hola
+4/10/23, 21:22 - +54 9 351 342-3160: por mi si
+4/10/23, 21:23 - +54 9 351 342-3160: como esta acordado si
+4/10/23, 21:23 - Silvana Godoy: Hola chicos!
+4/10/23, 21:23 - Silvana Godoy: Si quieren ir mirando el Trello ... subí varias cosas
+4/10/23, 21:23 - +54 9 351 342-3160: estuve viendo
+4/10/23, 21:23 - +54 9 351 342-3160: yo
+4/10/23, 21:23 - +54 9 351 342-3160: hoy
+4/10/23, 21:24 - Silvana Godoy: Esta muy buena esa herramienta,  podes adjuntar archivos...
+4/10/23, 21:24 - Silvana Godoy: Buenísimo
+4/10/23, 21:25 - +54 9 351 352-5134: hola, sisi por mi si
+4/10/23, 21:26 - Silvana Godoy: Holis! Ok
+4/10/23, 21:33 - TSCDIA - Mateo Beltramone: De una
+4/10/23, 21:51 - TSCDIA Paola Navarro: Hola Chicos👋👋
+4/10/23, 21:51 - TSCDIA Paola Navarro: 👍
+4/10/23, 21:55 - TSCDIA - Mateo Beltramone: manden link
+4/10/23, 21:59 - TSCDIA - Mateo Beltramone: bueno... vuelvo en 20
+4/10/23, 21:59 - TSCDIA - Mateo Beltramone: min
+4/10/23, 22:00 - TSCDIA Danny: Chicos
+4/10/23, 22:00 - TSCDIA Danny: Pasen link
+4/10/23, 22:02 - Silvana Godoy: Hola Danny
+4/10/23, 22:03 - Silvana Godoy: Creo que Pao esta e clase aún
+4/10/23, 22:03 - TSCDIA Danny: Okis
+4/10/23, 22:03 - TSCDIA Danny: Avisen
+4/10/23, 22:03 - TSCDIA Paola Navarro: No no ya estoy
+4/10/23, 22:03 - Silvana Godoy: Ok
+4/10/23, 22:03 - Silvana Godoy: Ahí armo
+4/10/23, 22:04 - Silvana Godoy: https://meet.google.com/tgw-vnow-nzq
+4/10/23, 22:04 - +54 9 351 342-3160: chicos entre unos minutos tarde
+4/10/23, 22:04 - +54 9 351 342-3160: la voy a buscar a la parada a mi novia.
+4/10/23, 22:05 - +54 9 351 342-3160: ya vuelvo
+4/10/23, 22:05 - Silvana Godoy: Ok
+4/10/23, 22:05 - +54 9 11 5057-6958: Holiiiis
+4/10/23, 22:06 - +54 9 11 5057-6958: Ya casiiuu
+4/10/23, 22:06 - +54 9 11 5057-6958: Esperenmeeeen
+4/10/23, 22:07 - TSCDIA - Mateo Beltramone: Estoy en la calle
+4/10/23, 22:07 - TSCDIA - Mateo Beltramone: En un rato llego
+4/10/23, 22:12 - TSCDIA Danny: X2
+4/10/23, 22:38 - +54 9 351 342-3160: estan todavia?
+4/10/23, 22:38 - +54 9 351 352-5134: sisi
+4/10/23, 22:40 - TSCDIA - Mateo Beltramone: Volviendo
+4/10/23, 22:43 - +54 9 351 342-3160: estoy para que me acepten jaj
+4/10/23, 22:56 - +54 9 11 5057-6958: Ya termino?
+4/10/23, 22:56 - +54 9 11 5057-6958: Perdón
+4/10/23, 22:57 - +54 9 351 352-5134: todavía no
+4/10/23, 22:57 - +54 9 351 352-5134: en unos minutos se corta
+4/10/23, 23:08 - +54 9 351 342-3160: volvemos chicos jaja
+4/10/23, 23:08 - TSCDIA - Mateo Beltramone: Jajajaja
+4/10/23, 23:08 - +54 9 351 342-3160: un ratito mas
+4/10/23, 23:08 - TSCDIA Danny: Armen una reunión nuevamente
+4/10/23, 23:08 - TSCDIA - Mateo Beltramone: Hacemos otra
+4/10/23, 23:08 - Silvana Godoy: https://meet.google.com/xty-hqhu-ytu
+4/10/23, 23:08 - Silvana Godoy: cual
+4/10/23, 23:09 - +54 9 351 342-3160: *
+4/10/23, 23:09 - +54 9 351 342-3160: esa
+4/10/23, 23:09 - TSCDIA Paola Navarro: Se cortoo
+4/10/23, 23:09 - TSCDIA Paola Navarro: Estan??
+4/10/23, 23:13 - Silvana Godoy: fijate en el link nuevo
+4/10/23, 23:13 - +54 9 351 352-5134: .
+5/10/23, 16:51 - Silvana Godoy: Buenasss
+5/10/23, 16:51 - +54 9 351 342-3160: Buenas
+5/10/23, 16:52 - Silvana Godoy: @5493515604850 lo pedís lo tenés: rendimiento anual del S&P500 desde 1928 al 2023
+5/10/23, 16:53 - Silvana Godoy: Excel y script en tarjeta Trello:Web Scraping- Otras Páginas- Tareas en Progreso
+5/10/23, 16:55 - Silvana Godoy: Ahhh y el Excel que vimos ayer tbm está listo.En 👇🏼
+5/10/23, 16:55 - Silvana Godoy: ‎IMG-20231005-WA0020.jpg (archivo adjunto)
+5/10/23, 17:47 - +54 9 351 342-3160: Que grande pao
+5/10/23, 17:49 - TSCDIA Paola Navarro: No fui yooo Gonzaa😂😂😂
+5/10/23, 17:49 - TSCDIA Paola Navarro: Fue Sil
+5/10/23, 17:50 - +54 9 351 342-3160: Jajaja
+5/10/23, 17:50 - +54 9 351 342-3160: Perdón sil jajaja
+5/10/23, 17:50 - +54 9 351 342-3160: Hoy estuve viendo lo de sql, ya instale todo
+5/10/23, 17:50 - +54 9 351 342-3160: Ma tarde me pongo a meterle al código jajaj
+5/10/23, 18:48 - TSCDIA Danny: Eyyy!!! Un éxito. Jajajaja
+5/10/23, 21:16 - Silvana Godoy: Pude sacar el  marketCap de cada compañía! Archivos subidos
+6/10/23, 12:51 - Silvana Godoy: Buenass
+6/10/23, 12:52 - Silvana Godoy: Consulta: @5493512339268 , @5493513423160 se puede exportar una bd desde msql a powerbi?
+6/10/23, 12:54 - +54 9 351 342-3160: tengo entendido que si
+6/10/23, 12:54 - +54 9 351 342-3160: segun google dice que si jajaja
+6/10/23, 12:55 - Silvana Godoy: Estaría bueno ya que me parece que powerbi es una muy buena herramienta para hacer dashboard
+6/10/23, 12:55 - +54 9 351 342-3160: sep
+6/10/23, 12:55 - Silvana Godoy: Ahhh no se ocurrió buscar...
+6/10/23, 12:56 - Silvana Godoy: Pudiste empezar con la bd? @5493512339268 y vos?
+6/10/23, 12:56 - Silvana Godoy: Yo no ví nada aún
+6/10/23, 12:57 - Silvana Godoy: Nos vamos a juntar esta tarde? Yo estoy media complicada hoy pero hasta las 20 hs podría
+6/10/23, 12:58 - +54 9 351 342-3160: Ya te confirmo
+6/10/23, 12:59 - +54 9 351 342-3160: Yo estaba viendo algo recién
+6/10/23, 12:59 - +54 9 351 342-3160: Pero no avance mucho
+6/10/23, 13:04 - TSCDIA Paola Navarro: Hola compas, yo estoy en la busqueda de la Historia, composicion y situacion del indicador bursatil..Que era una de nuestras tareas
+6/10/23, 13:07 - TSCDIA Paola Navarro: Esta muy bueno el tema elegido Sil.
+6/10/23, 13:11 - Silvana Godoy: Jaja y tu grupo favorito también habla del SP500...
+6/10/23, 13:12 - Silvana Godoy: Guru quise decir
+6/10/23, 13:13 - Silvana Godoy: Warren Buffett
+6/10/23, 13:14 - TSCDIA Paola Navarro: Ahhh..Sii me encantaa Warren Buffet😍😍
+6/10/23, 15:44 - TSCDIA - Mateo Beltramone: Hola, e visto poco
+6/10/23, 15:51 - +54 9 351 342-3160: yo estoy libre desde ahora sil
+6/10/23, 15:51 - +54 9 351 342-3160: pero no tengo mucha data
+6/10/23, 15:51 - +54 9 351 342-3160: estoy viendo todo de como hacer y armar la base de datos
+6/10/23, 15:51 - +54 9 351 342-3160: con los videos que pusiste
+6/10/23, 15:51 - +54 9 351 342-3160: como guia
+6/10/23, 15:52 - +54 9 351 342-3160: estan buenos
+6/10/23, 16:37 - Silvana Godoy: Bueno seguimos en contacto y el domingo definimos si podemos presentar algo de eso el lunes...les parece?
+6/10/23, 16:38 - +54 9 351 342-3160: ok
+6/10/23, 16:38 - +54 9 351 342-3160: yo voy a seguir
+6/10/23, 16:42 - TSCDIA - Mateo Beltramone: Ok
+6/10/23, 16:42 - TSCDIA - Mateo Beltramone: ‎PTT-20231006-WA0015.opus (archivo adjunto)
+6/10/23, 16:42 - TSCDIA Paola Navarro: Ok
+6/10/23, 16:44 - Silvana Godoy: Para mí es la pregunta? Mapa que Gonzalo está más encaminado
+6/10/23, 16:44 - TSCDIA - Mateo Beltramone: ‎PTT-20231006-WA0016.opus (archivo adjunto)
+6/10/23, 16:45 - TSCDIA - Mateo Beltramone: ‎PTT-20231006-WA0017.opus (archivo adjunto)
+6/10/23, 16:48 - Silvana Godoy: Uhh a esa hora no puedo hoy, pero los Excel están todos listos en el Trello
+6/10/23, 16:49 - TSCDIA - Mateo Beltramone: Si si
+6/10/23, 16:49 - Silvana Godoy: Y hay que tener en cuenta el DER y el MER que van armar los chicos, ellos se juntaban hoy?
+6/10/23, 16:50 - Silvana Godoy: No recuerdo bien
+6/10/23, 16:50 - TSCDIA - Mateo Beltramone: El Der y el Mer son una imagen de la base de datos
+6/10/23, 16:50 - TSCDIA - Mateo Beltramone: Así que si
+6/10/23, 16:51 - TSCDIA - Mateo Beltramone: ‎PTT-20231006-WA0018.opus (archivo adjunto)
+6/10/23, 16:53 - +54 9 351 342-3160: yo mateo
+6/10/23, 16:53 - +54 9 351 342-3160: estoy viendo como se crea la base de datos
+6/10/23, 16:53 - +54 9 351 342-3160: viendo los videos
+6/10/23, 16:53 - TSCDIA - Mateo Beltramone: ‎PTT-20231006-WA0019.opus (archivo adjunto)
+6/10/23, 16:58 - Silvana Godoy: Sí, lo que salga primero, el otro replica
+6/10/23, 17:03 - +54 9 351 342-3160: por python nunca habia creado una
+6/10/23, 17:04 - +54 9 351 342-3160: sql server habia usado yo
+6/10/23, 17:04 - +54 9 351 342-3160: pero nunca con python
+6/10/23, 17:04 - TSCDIA - Mateo Beltramone: A yo me encargo de conectada a la base de datos
+6/10/23, 17:04 - TSCDIA - Mateo Beltramone: Si querés te enseño
+6/10/23, 17:10 - +54 9 351 342-3160: dale de una
+6/10/23, 17:13 - TSCDIA - Mateo Beltramone: Osea vos miralos
+6/10/23, 17:14 - TSCDIA - Mateo Beltramone: Yo te voy a pasar unos videos que me sirvieron para entender
+6/10/23, 17:14 - TSCDIA - Mateo Beltramone: Déjame que los busco
+6/10/23, 17:14 - +54 9 351 342-3160: si, yo estoy ahora los videos que paso la sil, me conecte a la base, estoy creando la tabla etc
+6/10/23, 17:39 - Silvana Godoy: Pasalos por aquí please
+6/10/23, 18:35 - TSCDIA - Mateo Beltramone: https://youtu.be/RgLzqIFZg8s?si=X-aDJgvl8QTanHte
+6/10/23, 18:37 - TSCDIA - Mateo Beltramone: https://youtu.be/BbiDUHot7dA?si=nQfCOii27FpB7md-
+6/10/23, 18:37 - TSCDIA - Mateo Beltramone: https://youtu.be/yPb7Ad4wg4A?si=gRaAtKi-_9mG422u
+6/10/23, 18:38 - TSCDIA - Mateo Beltramone: ‎PTT-20231006-WA0025.opus (archivo adjunto)
+6/10/23, 18:44 - Silvana Godoy: Gracias @5493512339268 !!!
+6/10/23, 18:45 - TSCDIA - Mateo Beltramone: ‎PTT-20231006-WA0031.opus (archivo adjunto)
+6/10/23, 18:46 - TSCDIA - Mateo Beltramone: ‎PTT-20231006-WA0032.opus (archivo adjunto)
+6/10/23, 20:04 - Silvana Godoy: Ohhh quiero que me enseñes🙏🏼
+6/10/23, 20:04 - TSCDIA - Mateo Beltramone: El domingo a la tarde si querés vemos lo de Python
+6/10/23, 20:05 - TSCDIA - Mateo Beltramone: Me está costando lo de Python Exel y SQL
+6/10/23, 20:07 - Silvana Godoy: Uhhh que cagada...sino como haremos para cargar tantos registros🤔
+6/10/23, 20:08 - TSCDIA - Mateo Beltramone: Osea debo buscar más info
+6/10/23, 20:08 - TSCDIA - Mateo Beltramone: Para hacerlo mejor
+6/10/23, 20:10 - Silvana Godoy: Buscaré también
+6/10/23, 20:17 - +54 9 351 342-3160: Si
+6/10/23, 20:17 - +54 9 351 342-3160: Yo estuve haciendo, pero es unipor uno
+6/10/23, 20:17 - +54 9 351 342-3160: Jajaja está loco
+6/10/23, 20:18 - +54 9 351 342-3160: No lo terminamos mas
+6/10/23, 20:18 - TSCDIA - Mateo Beltramone: Podes hacer un for
+6/10/23, 20:18 - TSCDIA - Mateo Beltramone: Para que lea las columnas
+6/10/23, 20:18 - TSCDIA - Mateo Beltramone: Pero estoy buscando algo más rápido
+6/10/23, 20:18 - TSCDIA - Mateo Beltramone: MySQL se puede exportar de exel a sql
+6/10/23, 20:19 - TSCDIA - Mateo Beltramone: Quiero ver si Python lo puede hacer eso de una
+6/10/23, 20:20 - Silvana Godoy: Claro no hay forma!
+6/10/23, 20:20 - Silvana Godoy: Además como hacen las empresas cuando tienen que migrar miles y miles de datos?
+6/10/23, 20:21 - TSCDIA - Mateo Beltramone: Se pegan un tiro
+6/10/23, 20:21 - Silvana Godoy: 🤣🤣🤣🤣
+6/10/23, 20:21 - +54 9 351 342-3160: Jaja
+6/10/23, 20:21 - Silvana Godoy: Que aparato
+6/10/23, 20:21 - +54 9 351 342-3160: Seguro que ahí una forma
+6/10/23, 20:21 - Silvana Godoy: Por eso...
+6/10/23, 20:21 - +54 9 351 342-3160: De sql sabía el excel nomás jajaja
+6/10/23, 20:21 - +54 9 351 342-3160: Era bien facilito
+6/10/23, 20:21 - Silvana Godoy: Mateo pregunta en Desarrollo que hay varios crack
+6/10/23, 21:13 - +54 9 351 342-3160: Che
+6/10/23, 21:13 - +54 9 351 342-3160: Y si subís el excel a googledocs
+6/10/23, 21:13 - +54 9 351 342-3160: Y los scrapias como una página
+6/10/23, 21:13 - +54 9 351 342-3160: Jajajaja
+6/10/23, 21:13 - +54 9 351 342-3160: Se me ocurre
+6/10/23, 21:23 - TSCDIA Danny: @5493515573402 eso de la capitalización está en el Trello?
+6/10/23, 22:18 - Silvana Godoy: Hola sí , perdón recien veo el msj
+6/10/23, 22:18 - Silvana Godoy: Hay 2 tarjetas de Web Scraping : pag principal y otras pag
+6/10/23, 22:19 - Silvana Godoy: En esas 2 esta subido todo
+6/10/23, 22:19 - Silvana Godoy: AJAJA ME ENCANTO LA IDEA!
+6/10/23, 22:32 - TSCDIA Danny: ‎IMG-20231006-WA0038.jpg (archivo adjunto)
+Va algo así?
+6/10/23, 22:33 - TSCDIA Danny: Ahí veo si encuentro eso
+6/10/23, 22:34 - TSCDIA Danny: Hice cualquiera en las relaciones igual
+6/10/23, 22:39 - TSCDIA Danny: ‎IMG-20231006-WA0039.jpg (archivo adjunto)
+Ahí está un poquito mejor
+6/10/23, 22:46 - TSCDIA Danny: Ahí ví lo de capitalización @5493515573402 😁
+6/10/23, 22:46 - Silvana Godoy: Me parece que las relaciones son todas de 1 a M , y la entidad Sp500 no me cuenta la relación....buenísima producción
+6/10/23, 22:47 - Silvana Godoy: El domingo lo terminamos de pulir!!💪🏼💪🏼
+6/10/23, 22:52 - TSCDIA Danny: En realidad la misma localización puede ser para muchas empresas y también aplica para industria y para sub industria
+6/10/23, 22:53 - TSCDIA Danny: ‎IMG-20231006-WA0040.jpg (archivo adjunto)
+Ahí agregué capitalización. Peeero, no sé bien a qué va relacionada
+6/10/23, 22:53 - Silvana Godoy: Exacto
+6/10/23, 22:53 - TSCDIA Danny: Quizás es mejor relacionar la capitalización directamente al índice
+6/10/23, 22:54 - TSCDIA Danny: No sé que opina el resto
+6/10/23, 22:55 - Silvana Godoy: Vengo pensando en eso tbm y no todavía no me iluminé .... se aceptan ideas
+6/10/23, 22:55 - TSCDIA Danny: O sea a la tabla S&P500
+6/10/23, 22:56 - TSCDIA - Mateo Beltramone: la capitalizacion que era?
+6/10/23, 22:56 - Silvana Godoy: Si si te entendí
+6/10/23, 22:56 - Silvana Godoy: Valor de mercado de cada empresa
+6/10/23, 22:56 - Silvana Godoy: En dólares
+6/10/23, 22:56 - TSCDIA - Mateo Beltramone: si si
+6/10/23, 22:57 - TSCDIA - Mateo Beltramone: la verdad yo creo que solo debe ser un atributo nomas d
+6/10/23, 22:57 - Silvana Godoy: Otra es que forme parte de la entidad principal
+6/10/23, 22:57 - Silvana Godoy: A eso me refiero
+6/10/23, 22:59 - Silvana Godoy: En cuyo caso nos queda colgado la evolución del índice  o no me doy cuenta como puede formar parte de la bbdd ..
+6/10/23, 23:00 - TSCDIA - Mateo Beltramone: indice si esta a la alta o no?
+6/10/23, 23:00 - Silvana Godoy: Así es... valor de apertura, cierre, ect
+6/10/23, 23:01 - TSCDIA - Mateo Beltramone: entoinces ahi si debes crear una tabla de valor
+6/10/23, 23:01 - TSCDIA - Mateo Beltramone: esa tabla si debe tener relacion con la tabla indice
+6/10/23, 23:01 - TSCDIA - Mateo Beltramone: por que el indice es dependiente del valor
+6/10/23, 23:01 - Silvana Godoy: Si
+6/10/23, 23:01 - TSCDIA - Mateo Beltramone: si esta sube la otra tambien
+6/10/23, 23:02 - TSCDIA Danny: Claro a eso apunto
+6/10/23, 23:02 - TSCDIA Danny: Que no quede colgado eso
+6/10/23, 23:02 - TSCDIA Danny: Que justamente son los números
+6/10/23, 23:02 - TSCDIA Danny: También tiene que tener relación con la empresa verdad?
+6/10/23, 23:03 - TSCDIA - Mateo Beltramone: ‎PTT-20231006-WA0041.opus (archivo adjunto)
+6/10/23, 23:03 - Silvana Godoy: ‎PTT-20231006-WA0042.opus (archivo adjunto)
+6/10/23, 23:07 - TSCDIA - Mateo Beltramone: ‎PTT-20231006-WA0043.opus (archivo adjunto)
+6/10/23, 23:09 - TSCDIA Danny: Para mí habría que seguir teniendola en cuenta
+6/10/23, 23:10 - TSCDIA Danny: Claro
+6/10/23, 23:11 - Silvana Godoy: Es que no tenemos índice por sector, estimo que no existe,   tenemos el global que lo representa el SP500  y luego el de cada empresa
+6/10/23, 23:11 - TSCDIA Danny: ‎PTT-20231006-WA0044.opus (archivo adjunto)
+6/10/23, 23:11 - Silvana Godoy: Si hay que  encontrarle la vuelta xq se puede hacer mucho análisis con esa info
+6/10/23, 23:12 - Silvana Godoy: Ahh y también tenemos el valor cierre del SP500 anual desde 1928 a 2023
+6/10/23, 23:13 - Silvana Godoy: Sí esa parte está joda !!!
+6/10/23, 23:14 - TSCDIA - Mateo Beltramone: ‎PTT-20231006-WA0045.opus (archivo adjunto)
+6/10/23, 23:14 - TSCDIA - Mateo Beltramone: ‎PTT-20231006-WA0046.opus (archivo adjunto)
+6/10/23, 23:15 - TSCDIA Danny: También. Eso se mide por puntos básicos. Pero creo que hay info desde 1977 en adelante
+6/10/23, 23:15 - TSCDIA Danny: Claro
+6/10/23, 23:16 - Silvana Godoy: Esta ese Excel en el Trello tbm desde 1928 lo conseguí
+6/10/23, 23:16 - TSCDIA Danny: Genial
+6/10/23, 23:17 - Silvana Godoy: ‎PTT-20231006-WA0047.opus (archivo adjunto)
+6/10/23, 23:20 - TSCDIA - Mateo Beltramone: a
+6/10/23, 23:19 - Silvana Godoy: ‎PTT-20231006-WA0048.opus (archivo adjunto)
+6/10/23, 23:49 - TSCDIA - Mateo Beltramone: chicos acabo de llegar
+6/10/23, 23:49 - TSCDIA - Mateo Beltramone: quieren que veamos algo rapido (no doy mas jaaj)
+6/10/23, 23:51 - TSCDIA Danny: Yo ahora estoy comiendo. Jajajaja
+6/10/23, 23:51 - TSCDIA Danny: Si quieren más tarde paso el PDF
+6/10/23, 23:51 - TSCDIA Danny: Por dónde vas a hacer la base de datos Mateo?
+6/10/23, 23:53 - TSCDIA - Mateo Beltramone: my sql
+6/10/23, 23:58 - +54 9 351 342-3160: Yo igual estoy cansado
+6/10/23, 23:59 - +54 9 351 342-3160: Estaba leyendo lo que hicieron avanzaron
+6/10/23, 23:58 - Silvana Godoy: ‎PTT-20231006-WA0049.opus (archivo adjunto)
+7/10/23, 0:00 - TSCDIA - Mateo Beltramone: XD
+7/10/23, 0:00 - TSCDIA - Mateo Beltramone: por que me parecia raro por que en las noticias dicen, hay una alsa en el sector algo
+7/10/23, 0:02 - Silvana Godoy: Si ...nunca lo pensé en el sentido estricto de algo que cotizará sino más bien como info a partir de otros indicadores
+7/10/23, 0:02 - Silvana Godoy: ‎PTT-20231007-WA0000.opus (archivo adjunto)
+7/10/23, 0:04 - Silvana Godoy: Igual esto ya cuenta como meet...jaja
+7/10/23, 0:04 - +54 9 351 342-3160: Jajaja
+7/10/23, 0:04 - +54 9 351 342-3160: Estuvieron re activos
+7/10/23, 0:05 - Silvana Godoy: @5493515604850 tiene la culpa...jaja
+7/10/23, 0:06 - TSCDIA - Mateo Beltramone: jaja
+7/10/23, 0:06 - TSCDIA - Mateo Beltramone: si pero cada una tiene un sector
+7/10/23, 0:06 - TSCDIA Danny: Quería hacer algo. Jajajaja
+7/10/23, 0:06 - TSCDIA Danny: Vengo re atrasado en todo. Jajajaja
+7/10/23, 0:06 - TSCDIA - Mateo Beltramone: y tambien puede haber una empresa de seguridad en top 3 pero seguridad eta en top 10 en el tema de sectore
+7/10/23, 0:06 - TSCDIA Danny: Pero bueno. Hay que pensar en como metemos la capitalización
+7/10/23, 0:06 - TSCDIA Danny: Y ya de ahí tenemos casi todo
+7/10/23, 0:07 - TSCDIA Danny: Cuando haces el der te crea automáticamente la base de datos. Jajajaja
+7/10/23, 0:07 - TSCDIA - Mateo Beltramone: Sep
+7/10/23, 0:07 - TSCDIA - Mateo Beltramone: Por eso no entendí el msj
+7/10/23, 0:07 - TSCDIA - Mateo Beltramone: Digo bueno lo copiare
+7/10/23, 0:07 - TSCDIA Danny: Clarou
+7/10/23, 0:07 - Silvana Godoy: Genial ese análisis
+7/10/23, 0:08 - TSCDIA - Mateo Beltramone: Y haré la base de datos con el Der que pasen
+7/10/23, 0:15 - TSCDIA - Mateo Beltramone: @5493515573402 En mi git tengo un repositorio para conectar python y ql
+7/10/23, 0:15 - TSCDIA - Mateo Beltramone: sql*
+7/10/23, 0:15 - TSCDIA - Mateo Beltramone: queres chusmearlo?
+7/10/23, 0:16 - Silvana Godoy: Dale
+7/10/23, 0:17 - TSCDIA Danny: Okis
+7/10/23, 0:17 - TSCDIA - Mateo Beltramone: https://github.com/Mateo88XD/EjemploPython-MySQL.git
+7/10/23, 0:21 - TSCDIA - Mateo Beltramone: Mi idea es hacer eso, el temaaaaa es que hay que hacer una clase por cada tabla
+7/10/23, 0:22 - Silvana Godoy: ‎ETF_Communication_histórico.csv (archivo adjunto)
+ETF_Communication_histórico.csv
+7/10/23, 0:23 - Silvana Godoy: ‎ETF_Communication_histórico.xlt (archivo adjunto)
+ETF_Communication_histórico.xlt
+7/10/23, 0:23 - Silvana Godoy: el otro es en csv
+7/10/23, 0:25 - Silvana Godoy: es lo que me explicabas hoy?
+7/10/23, 0:25 - TSCDIA - Mateo Beltramone: Sep
+7/10/23, 0:25 - TSCDIA - Mateo Beltramone: Es trabajoso pero ordenado
+7/10/23, 0:26 - TSCDIA - Mateo Beltramone: También se podría modificar para hacerlo más dinámico
+7/10/23, 0:26 - Silvana Godoy: me gusta lo de ordenado
+7/10/23, 0:27 - TSCDIA - Mateo Beltramone: Si necesitas modificar se puede buscar facil
+7/10/23, 0:27 - Silvana Godoy: claro
+7/10/23, 0:27 - TSCDIA - Mateo Beltramone: Lo que si es problemático es la carga de datos a través de Python
+7/10/23, 0:28 - TSCDIA - Mateo Beltramone: Si ves en libroDAO es un kilombo para cargar los datos
+7/10/23, 0:28 - TSCDIA - Mateo Beltramone: Es muy largo el código
+7/10/23, 0:30 - Silvana Godoy: Y si no la cargamos con Python ?🤔 y hacemos código solo para crud...no sé digo...lo aceptarán?
+7/10/23, 0:30 - TSCDIA - Mateo Beltramone: Osea, para cargar todos los datos de una si hay que hacer otro programa
+7/10/23, 0:31 - TSCDIA - Mateo Beltramone: Pero para dar consultas habría que hacer SQL="select y todo eso"
+7/10/23, 0:31 - TSCDIA - Mateo Beltramone: Y si querés agregar alguna empresa más y eso
+7/10/23, 0:31 - Silvana Godoy: Claro
+7/10/23, 0:32 - TSCDIA - Mateo Beltramone: Podríamos hacer dos líneas de codigo
+7/10/23, 0:32 - TSCDIA - Mateo Beltramone: Para cargar una empresa o una lista
+7/10/23, 0:32 - Silvana Godoy: O dejar código expresado para carga manual
+7/10/23, 0:32 - Silvana Godoy: Exacto
+7/10/23, 0:33 - Silvana Godoy: Para que vean que sabemos como se hace ...pero la carga masiva hacerla de otra forma
+7/10/23, 0:33 - TSCDIA Danny: Con que conectarían la base de datos a Python?
+7/10/23, 0:33 - TSCDIA Danny: Conectariamos*
+7/10/23, 0:33 - Silvana Godoy: Como estaba haciendo Gonza
+7/10/23, 0:33 - TSCDIA Danny: Alguna biblioteca?
+7/10/23, 0:33 - TSCDIA - Mateo Beltramone: Si entras acá está el archivo DAO
+7/10/23, 0:33 - +54 9 351 342-3160: Si
+7/10/23, 0:33 - TSCDIA - Mateo Beltramone: Así pienso
+7/10/23, 0:34 - +54 9 351 342-3160: Podemos con conectarla y hacer consulta
+7/10/23, 0:34 - +54 9 351 342-3160: Podemos agregar y quitar cosas
+7/10/23, 0:34 - +54 9 351 342-3160: O sea podemos hacer mucho pero es lento
+7/10/23, 0:34 - Silvana Godoy: O nos metemos un tiro diría Mateo
+7/10/23, 0:35 - TSCDIA - Mateo Beltramone: También
+7/10/23, 0:36 - Silvana Godoy: Porfa dígame si sirve lo que scrape así hago los 11 sectores ahora
+7/10/23, 0:37 - Silvana Godoy: Es para lo único que tengo lucidez en este momento...ya lo tengo automatizado
+7/10/23, 0:37 - TSCDIA - Mateo Beltramone: Yo creo que si
+7/10/23, 0:38 - +54 9 351 342-3160: Jajaja hacelo
+7/10/23, 0:38 - +54 9 351 342-3160: Te sirve la práctica 🤣🤣
+7/10/23, 0:39 - Silvana Godoy: Que bostero!!🤣🤣🤣
+7/10/23, 0:39 - +54 9 351 342-3160: Jamás bostero
+7/10/23, 0:40 - Silvana Godoy: 🙏🏼🙏🏼
+7/10/23, 2:54 - TSCDIA - Mateo Beltramone: https://youtu.be/SI7O81GMG2A?si=LubmP78kmu3ZFQ3u
+7/10/23, 17:14 - Silvana Godoy: Buenass grupo, paso excel con rendimientos por industria ...tomé la última década y un borrador del DER
+7/10/23, 17:15 - Silvana Godoy: ‎Rentabilidad Media Anual S&P 5001 global y por sectores.xlsx (archivo adjunto)
+Rentabilidad Media Anual S&P 5001 global y por sectores.xlsx
+7/10/23, 17:15 - Silvana Godoy: ‎DER.pdf (archivo adjunto)
+DER.pdf
+7/10/23, 17:15 - Silvana Godoy: Nos vemos mañana 10:00 hs 😘
+7/10/23, 18:35 - TSCDIA Paola Navarro: Subi algunos graficos en Power BI ..Me avisan si los pueden ver
+7/10/23, 19:43 - +54 9 351 342-3160: chicos, me voy a sentar ahora hasta las 22 en la pc a ver todo.
+7/10/23, 19:43 - +54 9 351 342-3160: si alguno quiere hablar del tema o algo jajaa voy a estar pendiente.
+7/10/23, 19:45 - +54 9 351 342-3160: bajo el docx con la historia y si lo pude ver
+7/10/23, 19:47 - +54 9 351 342-3160: los gráficos los estoy viendo tambien.
+7/10/23, 19:48 - +54 9 351 342-3160: y power bi, tiene una sección para móviles. (para mi es nuevo)
+7/10/23, 19:52 - TSCDIA Paola Navarro: Si para mi tambien Gonza...Es la primera vez que lo veo
+7/10/23, 19:52 - TSCDIA Paola Navarro: Esta muy bueno para graficar
+8/10/23, 10:04 - +54 9 351 342-3160: Estamos activos?
+8/10/23, 10:04 - Silvana Godoy: Me re dormí😬
+8/10/23, 10:05 - Silvana Godoy: Perro si están todos  vamos nomas
+8/10/23, 10:05 - +54 9 351 342-3160: esta bien ja
+8/10/23, 10:08 - Silvana Godoy: Hello people??
+8/10/23, 10:08 - +54 9 351 342-3160: somos dos por ahora
+8/10/23, 10:09 - +54 9 351 342-3160: si, yo anoche me quede despierto un rato y a las 23 ya me dormia
+8/10/23, 10:09 - +54 9 351 342-3160: mal
+8/10/23, 10:09 - +54 9 11 5057-6958: Buenaaas
+8/10/23, 10:10 - Silvana Godoy: Buen día!
+8/10/23, 10:10 - TSCDIA Paola Navarro: ‎STK-20230819-WA0002.webp (archivo adjunto)
+8/10/23, 10:10 - TSCDIA Paola Navarro: Hola chicos👋👋
+8/10/23, 10:10 - +54 9 11 5057-6958: Buen día
+8/10/23, 10:10 - TSCDIA Paola Navarro: Estoy👍
+8/10/23, 10:10 - Silvana Godoy: Yo como las 2 de ka mañana😬
+8/10/23, 10:11 - Silvana Godoy: Se encantan de armarla porfa
+8/10/23, 10:11 - Silvana Godoy: No se si están Mateo y Dani
+8/10/23, 10:16 - +54 9 351 342-3160: bueno ingresemos lo que estamos y los chicos se vayan agregando.
+8/10/23, 10:16 - +54 9 351 342-3160: ya la armo
+8/10/23, 10:19 - +54 9 351 342-3160: https://meet.google.com/kvp-ifbm-imj
+8/10/23, 10:19 - TSCDIA Danny: Holis
+8/10/23, 11:11 - +54 9 351 352-5134: hola chicos, disculpen que no me pude unir estoy con unos problemas en mi casa. Si pueden me dicen de que hablaron y organizaron, graciass
+8/10/23, 11:11 - +54 9 351 342-3160: si no te preocupes
+8/10/23, 11:11 - +54 9 351 342-3160: despues pasamos un resumen
+8/10/23, 11:19 - +54 9 351 352-5134: graciass
+8/10/23, 11:22 - +54 9 351 342-3160: uu finalizo
+8/10/23, 11:22 - +54 9 351 342-3160: ya armo otra je
+8/10/23, 11:22 - +54 9 11 5057-6958: Se cerró
+8/10/23, 11:22 - Silvana Godoy: Ármate otra Gonza
+8/10/23, 11:22 - +54 9 351 342-3160: https://meet.google.com/jss-abnf-gou
+8/10/23, 12:53 - Silvana Godoy: Todo sea por el progreso...jaja
+8/10/23, 14:02 - Silvana Godoy: @5493513423160 ya actualicé todos los archivos, están 👇🏼
+8/10/23, 14:02 - Silvana Godoy: ‎IMG-20231008-WA0006.jpg (archivo adjunto)
+8/10/23, 14:03 - Silvana Godoy: Agregar también:
+Docx y Gráficos de Pao
+MER de Danny
+8/10/23, 14:04 - Silvana Godoy: @5493515604850 podrías subir porfis el archivo del MER, no hay problemas e que haya que modificarlo luego
+8/10/23, 14:05 - Silvana Godoy: Mañana se trata de mostrar el avance en el proyecto y hacia donde queremos llegar
+8/10/23, 14:06 - Silvana Godoy: @5493513423160 subite todos los archivos al Git pa que vean que laburamos un montón 😉
+8/10/23, 14:47 - +54 9 351 342-3160: jaja dale
+8/10/23, 14:47 - +54 9 351 342-3160: ya lo hago
+8/10/23, 14:47 - +54 9 351 342-3160: terminaba de comer je
+8/10/23, 14:47 - +54 9 351 342-3160: ya subo todo
+8/10/23, 15:28 - +54 9 351 342-3160: ya lo subi
+8/10/23, 16:08 - TSCDIA Danny: Okis
+8/10/23, 16:08 - TSCDIA Danny: Esta noche puede ser? Igual hice el der yo
+8/10/23, 16:14 - +54 9 351 342-3160: si
+8/10/23, 16:14 - +54 9 351 342-3160: cuando puedas dann¿y
+8/10/23, 16:14 - +54 9 351 342-3160: dany quise poner ja
+8/10/23, 16:37 - TSCDIA Danny: Dale. Jajajaja
+8/10/23, 16:37 - TSCDIA Danny: Ando trabajando ahora
+9/10/23, 14:52 - ‎+54 9 351 352-5134 cambió su número de teléfono. Toca para enviar un mensaje o añadir el nuevo número.
+9/10/23, 19:15 - +54 9 351 342-3160: se enojo eduardo
+9/10/23, 19:16 - TSCDIA Danny: Por??
+9/10/23, 19:16 - TSCDIA Danny: Yo me estoy por conectar
+9/10/23, 19:16 - +54 9 351 342-3160: por lo de la otra vez
+9/10/23, 19:16 - +54 9 351 342-3160: que se agrego chicos a su grupo y no le aviso a nadie esa persona
+9/10/23, 19:17 - +54 9 351 342-3160: ja, cosas que pasan
+9/10/23, 19:17 - TSCDIA Danny: Pasaron cosas
+9/10/23, 19:17 - Silvana Godoy: Sí pero que va ocupar toda la clase él... dios
+9/10/23, 19:18 - Silvana Godoy: Y sigue...
+9/10/23, 19:18 - +54 9 351 342-3160: si
+9/10/23, 19:20 - +54 9 351 342-3160: todos aca están bien no? digo por los incendios.
+9/10/23, 19:20 - Silvana Godoy: Si si
+9/10/23, 19:21 - TSCDIA Danny: Dónde hay incendios?
+9/10/23, 19:21 - Silvana Godoy: Tanti
+9/10/23, 19:21 - +54 9 351 342-3160: cabalando
+9/10/23, 19:21 - Silvana Godoy: Cabalango
+9/10/23, 19:21 - TSCDIA Danny: Uhh
+9/10/23, 19:21 - +54 9 351 342-3160: toda esa zona
+9/10/23, 19:22 - +54 9 351 342-3160: https://www.instagram.com/reel/CyMZfh_r8j2/?utm_source=ig_web_copy_link
+9/10/23, 19:22 - TSCDIA Danny: ‎STK-20231004-WA0002.webp (archivo adjunto)
+9/10/23, 19:22 - TSCDIA Danny: Perdón pero quería usarlo. Jajajaja
+9/10/23, 19:22 - +54 9 351 342-3160: jajaja
+9/10/23, 19:23 - +54 9 351 342-3160: ‎STK-20231009-WA0008.webp (archivo adjunto)
+9/10/23, 20:02 - Silvana Godoy: Después seguimos nosotros
+9/10/23, 20:02 - Silvana Godoy: Prepárate Gonza
+9/10/23, 20:02 - +54 9 351 342-3160: ok
+9/10/23, 20:03 - +54 9 351 342-3160: resumido va a ser
+9/10/23, 20:03 - TSCDIA Danny: 😁
+9/10/23, 20:03 - +54 9 351 342-3160: y voy a consultar
+9/10/23, 20:03 - Silvana Godoy: Mateo pregunta vos por la Excel y msql
+9/10/23, 20:03 - +54 9 351 342-3160: por lo documentacion a realizar, metodo ISO o alguna norma apa
+9/10/23, 20:04 - +54 9 351 342-3160: si, es posible desde python subir la info, excel desde masivamente
+9/10/23, 20:04 - Silvana Godoy: Te salió?
+9/10/23, 20:05 - +54 9 351 342-3160: no, jajaj era para mateo
+9/10/23, 20:05 - +54 9 351 342-3160: no iba la coma
+9/10/23, 20:05 - Silvana Godoy: Ahh ok
+9/10/23, 20:05 - +54 9 351 342-3160: en todo los videos
+9/10/23, 20:05 - +54 9 351 342-3160: suben el cvs o excel
+9/10/23, 20:06 - +54 9 351 342-3160: mysql directamente o atreves del workspace, que el programa para manejar mysql
+9/10/23, 20:06 - Silvana Godoy: Es que para mi hay que hacerlo así
+9/10/23, 20:06 - +54 9 351 342-3160: si para mi tambien
+9/10/23, 20:07 - Silvana Godoy: Y hacer código para el CRUD
+9/10/23, 20:07 - +54 9 351 342-3160: che, siento que los profes estan mejores que antes
+9/10/23, 20:07 - +54 9 351 342-3160: o sea como que dan mejor clases jajaja
+9/10/23, 20:08 - +54 9 351 342-3160: que el primer semetre
+9/10/23, 20:08 - Silvana Godoy: Te parece?
+9/10/23, 20:08 - +54 9 351 342-3160: me parece
+9/10/23, 20:08 - +54 9 351 342-3160: o le estoy escuchando mas ahora
+9/10/23, 20:08 - +54 9 351 342-3160: jajja
+9/10/23, 20:12 - +54 9 351 342-3160: che
+9/10/23, 20:13 - +54 9 351 342-3160: yo no puedo escribir
+9/10/23, 20:13 - +54 9 351 342-3160: en el chat de video
+9/10/23, 20:13 - +54 9 351 342-3160: jaja
+9/10/23, 20:13 - +54 9 351 342-3160: maaaaa
+9/10/23, 20:13 - +54 9 351 342-3160: yo queria consultar
+9/10/23, 20:13 - Silvana Godoy: Yo tampoco
+9/10/23, 20:14 - Silvana Godoy: Me estas jodiendo ...
+9/10/23, 20:14 - +54 9 351 342-3160: naaa
+9/10/23, 20:14 - +54 9 351 342-3160: no puedo levantar la mano tampoco
+9/10/23, 20:14 - +54 9 351 342-3160: tampoco
+9/10/23, 20:14 - +54 9 351 342-3160: habilitar el mic
+9/10/23, 20:14 - Silvana Godoy: Que decepción
+9/10/23, 20:15 - +54 9 351 342-3160: que bbb de mie....
+9/10/23, 20:16 - Silvana Godoy: Tal cual
+9/10/23, 20:17 - +54 9 351 342-3160: le hubiéramos dicho que no teniamos etica para seguir.
+9/10/23, 20:17 - TSCDIA - Mateo Beltramone: Mal
+9/10/23, 20:18 - Silvana Godoy: Yo lo escribí 2 veces pero no aparecía en el chat
+9/10/23, 20:19 - Silvana Godoy: Se había colgado el bbb me parece
+9/10/23, 20:19 - +54 9 351 342-3160: si
+9/10/23, 20:19 - +54 9 351 342-3160: yo quise levantar la mano
+9/10/23, 20:19 - +54 9 351 342-3160: y no pasaba nada
+9/10/23, 20:19 - +54 9 11 5057-6958: Con razón. Se me apago la compu y no pude volver a conectarme
+9/10/23, 20:20 - Silvana Godoy: Y bue ya está ...contamos cuando te den la devolución
+9/10/23, 20:20 - +54 9 11 5057-6958: Me daba error
+9/10/23, 20:20 - Silvana Godoy: Es un porquería ese bbb
+9/10/23, 20:20 - +54 9 351 342-3160: Si
+10/10/23, 10:51 - Silvana Godoy: https://dolarhoy.com/nota/el-mercado-teme-que-el-s-p-500-continue-su-tendencia-bajista-202310910220
+10/10/23, 10:51 - Silvana Godoy: Buenasss
+10/10/23, 10:52 - Silvana Godoy: Paso ese link por aquí para no perderlo... puede servir para cerrar el informe.
+10/10/23, 10:52 - Silvana Godoy: Que tengan lindo día!!
+10/10/23, 10:54 - +54 9 351 342-3160: buenos dias
+10/10/23, 10:54 - +54 9 351 342-3160: sin novedades ajaja
+10/10/23, 12:42 - Silvana Godoy: @5493513423160 porfi consultale a la profe por msj privado del campus lo de levantar el Excel desde msql.
+10/10/23, 12:43 - Silvana Godoy: Esta semana estaremos todos con álgebra pero para tenerlo definido a partir del lunes próximo y poder seguir trabajando.
+10/10/23, 12:51 - TSCDIA Danny: Mal
+10/10/23, 13:00 - Silvana Godoy: Ni me digas...que materia perno
+10/10/23, 13:00 - +54 9 351 342-3160: ya pregunto
+10/10/23, 13:02 - Silvana Godoy: ‎STK-20230928-WA0001.webp (archivo adjunto)
+11/10/23, 13:09 - +54 9 351 342-3160: no me contesto nada la profe todavia
+11/10/23, 13:09 - +54 9 351 342-3160: buenos dias
+11/10/23, 13:09 - TSCDIA Paola Navarro: Buen dia Chicos👋👋
+11/10/23, 15:24 - TSCDIA Danny: Holis
+11/10/23, 18:01 - Silvana Godoy: Buenass ...habrá que seguir esperando 🙄
+11/10/23, 18:29 - TSCDIA Danny: Nos juntamos hoy??
+11/10/23, 18:44 - Silvana Godoy: Yo no tengo nada nuevo para aportar... estoy con álgebra
+11/10/23, 18:44 - Silvana Godoy: Podríamos reprogramar para lunes y definir como seguimos...
+11/10/23, 18:45 - TSCDIA Paola Navarro: Buenas tardes Chicos👋👋
+11/10/23, 18:46 - TSCDIA Paola Navarro: Si me parece bien Sil, ya que tendriamos que tener alguna devolucion de los profes para ver como seguimos
+11/10/23, 18:47 - Silvana Godoy: También...
+11/10/23, 18:53 - +54 9 351 342-3160: Yo igual
+11/10/23, 18:53 - +54 9 351 342-3160: Cuando se habilita al final álgebra?
+11/10/23, 18:53 - TSCDIA Danny: Claro
+11/10/23, 18:54 - TSCDIA Danny: No es el domingo??
+11/10/23, 18:54 - TSCDIA Paola Navarro: Sip
+11/10/23, 18:54 - TSCDIA Paola Navarro: Domingo a las 20hs me parece
+11/10/23, 18:55 - +54 9 351 342-3160: A bien
+11/10/23, 22:13 - TSCDIA - Mateo Beltramone: El domingo
+13/10/23, 19:33 - TSCDIA - Mateo Beltramone: Chicos
+13/10/23, 19:33 - TSCDIA - Mateo Beltramone: Ustedes ya rindieron base de datos
+13/10/23, 19:36 - TSCDIA Danny: Siiiiii
+13/10/23, 19:36 - TSCDIA - Mateo Beltramone: Sabes que pregunto?
+13/10/23, 19:37 - TSCDIA Danny: Normalización básicamente
+13/10/23, 19:37 - TSCDIA - Mateo Beltramone: Okss
+16/10/23, 10:37 - Silvana Godoy: ‎STK-20231016-WA0015.webp (archivo adjunto)
+16/10/23, 10:37 - Silvana Godoy: Como están?
+16/10/23, 10:38 - Silvana Godoy: Cómo les fue ayer? Yo 8... parcial largo y números muy rebuscados... complicaciones innecesarias a mi parecer
+16/10/23, 10:40 - TSCDIA Paola Navarro: ‎STK-20230819-WA0002.webp (archivo adjunto)
+16/10/23, 10:40 - Silvana Godoy: Les comento: en un rato pasaré por aquí el Dataset. Conseguí  más información, limpié, depuré y completé registros faltantes.
+16/10/23, 10:41 - Silvana Godoy: Ya arranqué con power BI. Si les parece Gonza, Dani y Mateo podrían ocuparse de laBBDD  y con las chicas de Power Bi
+16/10/23, 10:41 - Silvana Godoy: Esta semana le tenemos que meter
+16/10/23, 10:42 - TSCDIA Paola Navarro: Si aprobe rasguñando..6,33.🤦🏼‍♀️🤦🏼‍♀️
+16/10/23, 10:42 - Silvana Godoy: 👋🏼👋🏼👋🏼👋🏼👋🏼
+16/10/23, 10:44 - TSCDIA Paola Navarro: Bien👍
+16/10/23, 10:45 - +54 9 11 5057-6958: 7.78 me equivoque en 3 puntos. El de múltiples opciones le acerté 2 pero al parecer eran 3 correctas. Así que medio punto me dio
+16/10/23, 10:45 - Silvana Godoy: Si eran 3 las correctas
+16/10/23, 10:46 - TSCDIA Paola Navarro: Hola Maru..Si las correcciones no las entendi muy bien..Ya que solo tengo 3 mal y me puso 6🤷🏼‍♀️🤷🏼‍♀️
+16/10/23, 10:46 - TSCDIA Paola Navarro: Debe ser que valian mas esas
+16/10/23, 10:46 - Silvana Godoy: Yo me equivoqué en 2 giradas, un valor positivo lo pasé positivo 🤦🏻‍♀️
+16/10/23, 10:46 - TSCDIA - Mateo Beltramone: 6
+16/10/23, 10:47 - +54 9 11 5057-6958: Noooooo.
+16/10/23, 10:47 - TSCDIA - Mateo Beltramone: De 10 respondí 6 jaja
+16/10/23, 10:48 - TSCDIA - Mateo Beltramone: Estaba haciendo la 7 pero no llegue con el tiempo
+16/10/23, 10:48 - +54 9 11 5057-6958: Cuando un signo te traiciona
+16/10/23, 10:48 - Silvana Godoy: Y en el otro no me daba el vector w , y cuando me dió ya no tenía tiempo y cdo sacó el área del triangulo el /2 me quedó abajo de la raíz,  me dió cualquiera y se me acabó el tiempo
+16/10/23, 10:48 - TSCDIA - Mateo Beltramone: Yo tuve un problema, tenía 3 puntos
+16/10/23, 10:48 - +54 9 351 342-3160: Yo saqué 8
+16/10/23, 10:49 - +54 9 351 342-3160: Con lo justo
+16/10/23, 10:49 - TSCDIA - Mateo Beltramone: Saque el módulo entre punto y punto
+16/10/23, 10:49 - TSCDIA - Mateo Beltramone: Y tenía que sacar el area
+16/10/23, 10:49 - TSCDIA - Mateo Beltramone: No me dio ninguna de las opciones
+16/10/23, 10:49 - +54 9 11 5057-6958: Me paso con el último. Ya no me daba el tiempo. Hice tateti. Si la acertaba tenía que hacer el ejercicio 🫣
+16/10/23, 10:49 - Silvana Godoy: ‎PTT-20231016-WA0018.opus (archivo adjunto)
+16/10/23, 10:50 - Silvana Godoy: Con lo justo para promoción 💪🏼💪🏼
+16/10/23, 10:51 - TSCDIA Paola Navarro: No es con 7 que se promociona??
+16/10/23, 10:51 - Silvana Godoy: Creo que sí
+16/10/23, 10:52 - +54 9 11 5057-6958: En el próximo hay que hacer 7 o más. No se si es promedio
+16/10/23, 10:52 - TSCDIA Paola Navarro: Bueno un 8 es un golazo en esta materia😂😂😂
+16/10/23, 10:53 - +54 9 11 5057-6958: Y hay que llegar al 8. Estaba bien complicado.
+16/10/23, 10:53 - TSCDIA Paola Navarro: Si..
+16/10/23, 10:53 - TSCDIA - Mateo Beltramone: ‎PTT-20231016-WA0019.opus (archivo adjunto)
+16/10/23, 10:53 - +54 9 11 5057-6958: Encima dijo que iba a ser fácil 😒
+16/10/23, 10:56 - Silvana Godoy: No me pareció difícil, pero era largo, números complicados 227/13 , raíz cuadrada de 41 y dedazo en la calculadora
+16/10/23, 10:59 - Silvana Godoy: ‎LISTA DE EMPRESAS DEL  SP500.xls (archivo adjunto)
+LISTA DE EMPRESAS DEL  SP500.xls
+16/10/23, 11:00 - Silvana Godoy: https://powerbi.microsoft.com/es-es/downloads/
+16/10/23, 11:01 - +54 9 11 5057-6958: Siiiii. Tenía la calculadora por un lado, por el otro la calculadora del celu para compararlo <Se editó este mensaje.>
+16/10/23, 11:01 - Silvana Godoy: 👆🏼para descargar power bi
+16/10/23, 11:04 - +54 9 351 342-3160: si
+16/10/23, 11:05 - +54 9 351 342-3160: uno lo delo ejercicios lo hice con una calculadora para comprobar todo
+16/10/23, 11:05 - +54 9 351 342-3160: jajja
+16/10/23, 11:05 - +54 9 351 342-3160: el que te daba los puntos y sacar el área, era una boludes una vez que me di cuenta
+16/10/23, 11:06 - +54 9 351 342-3160: pero estuve renegando como media hora con ese
+16/10/23, 11:06 - +54 9 11 5057-6958: Gracias Sil
+16/10/23, 11:06 - +54 9 11 5057-6958: Hoy hay que aprovechar
+16/10/23, 11:07 - +54 9 11 5057-6958: Me paso con otro ejercicio. Me perseguía con el tiempo y no podía concentrarme. Luego parece que me desperté y empecé a razonar XD
+16/10/23, 11:22 - +54 9 351 342-3160: supongo que las multiopciones no le mandamos jajaj solo los ejercicios
+16/10/23, 11:50 - Silvana Godoy: Yo mandé el desarrollo igual que las guías
+16/10/23, 13:18 - TSCDIA Danny: Okis
+16/10/23, 13:18 - TSCDIA Danny: Yo reprobé jajajaja. 4,5. Al recuperatorio
+16/10/23, 14:33 - Silvana Godoy: Ohh que pena...pero bueno...ya sabes como es el parcial
+16/10/23, 14:41 - TSCDIA Danny: Si, si. Había estudiado para el 6. Del apuro me olvidé de contestar una y... En otra que eran dos correctas solamente puse una
+16/10/23, 15:19 - TSCDIA Paola Navarro: La proxima la aprobas Dany💪💪
+17/10/23, 22:58 - Silvana Godoy: Buena noches Chicos! adjunto archivo Power BI para que todos tengamos el mismo data set
+17/10/23, 22:58 - Silvana Godoy: ‎Los Data Lovers - Proyecto Integrador -TSCDIA - 2023.pbix (archivo adjunto)
+Los Data Lovers - Proyecto Integrador -TSCDIA - 2023.pbix
+17/10/23, 22:59 - Silvana Godoy: ‎IMG-20231017-WA0027.jpg (archivo adjunto)
+17/10/23, 23:01 - Silvana Godoy: ‎IMG-20231017-WA0029.jpg (archivo adjunto)
+@5493515392155 @5491150576958 @Nahir en esa tarjeta hay ideas sobre posibles análisis a realizar con los datos scrapeados, veamos que podemos hacer y que más se puede agregar.
+17/10/23, 23:02 - Silvana Godoy: @Nahir seguís en el grupo?
+17/10/23, 23:03 - Silvana Godoy: Por otro lado Mateo comenzará con la base de datos... @5493515604850 @5493513423160 si pueden darle una mano porfa
+17/10/23, 23:03 - +54 9 351 342-3160: si sil
+17/10/23, 23:03 - +54 9 351 342-3160: mañana me pongo de lleno en eso
+17/10/23, 23:03 - Silvana Godoy: El próximo lunes deberíamos presentar algo en relación a estos 2 temas
+17/10/23, 23:03 - +54 9 351 342-3160: dale
+17/10/23, 23:03 - TSCDIA Paola Navarro: Buenas noches chicos👋👋
+17/10/23, 23:03 - Silvana Godoy: Genial
+17/10/23, 23:04 - Silvana Godoy: Podríamos organizar una meet para jueves o viernes si les parece...así tenemos tiempo de avanzar con algo
+17/10/23, 23:04 - TSCDIA Paola Navarro: No lo puedo abrir desde el celu Sil..
+17/10/23, 23:04 - TSCDIA Paola Navarro: Mañana vere de la compu
+17/10/23, 23:05 - Silvana Godoy: Cálculo que es xq lo genere en la pc...no siempre hay compatibilidad con otros medios
+17/10/23, 23:05 - Silvana Godoy: Buenísimo
+17/10/23, 23:05 - TSCDIA Paola Navarro: Ok👍
+17/10/23, 23:11 - Silvana Godoy: @5493515392155 cuando puedas mové en el trello tu archivo del gráfico de la tarjeta documentar a la de Dasboard porfi...así queda más prolijo
+17/10/23, 23:24 - Silvana Godoy: ‎IMG-20231017-WA0032.jpg (archivo adjunto)
+Aquí pusiste el archivo👇🏼
+17/10/23, 23:24 - Silvana Godoy: ‎IMG-20231017-WA0034.jpg (archivo adjunto)
+17/10/23, 23:25 - Silvana Godoy: Pásalo a 👇🏼
+17/10/23, 23:25 - Silvana Godoy: ‎IMG-20231017-WA0036.jpg (archivo adjunto)
+17/10/23, 23:25 - TSCDIA- Nahir Guzmán: hola a todos, sisi disculpen estuve con muchos problemas, mañana me pongo bien con todo
+17/10/23, 23:49 - TSCDIA Danny: De una
+17/10/23, 23:49 - TSCDIA Danny: @5493512339268 cómo camina eso??
+18/10/23, 0:02 - TSCDIA - Mateo Beltramone: Tuve unos problemas
+18/10/23, 0:03 - TSCDIA - Mateo Beltramone: Estoy empezando a ver unas cosas para arreglar unos problemas en un código que hice para cargas datos
+18/10/23, 11:45 - +54 9 351 342-3160: Les parece juntarse el jueves o viernes por meet? horario 21 en adelante?
+18/10/23, 11:46 - +54 9 351 342-3160: ENCUESTA:
+Reunión
+OPCIÓN: Jueves (‎3 votos)
+OPCIÓN: Viernes (‎5 votos)
+
+18/10/23, 15:50 - +54 9 351 342-3160: @5493515573402 estoy viendo tu powerbi, veo que la hiciste con una tabla. que archivo utilizaste ?
+18/10/23, 15:52 - +54 9 351 342-3160: mateo, ese codigo es para subir todo los datos del excel o es para manipular la base de datos ya subida a mysql?
+18/10/23, 16:05 - TSCDIA Paola Navarro: Hola Gonza..El powerbi lo subi yo ...Es genial te hace las tablas de manera automatica🤷🏼‍♀️🤷🏼‍♀️
+18/10/23, 16:05 - TSCDIA Paola Navarro: Muy groso
+18/10/23, 16:05 - TSCDIA - Mateo Beltramone: ‎PTT-20231018-WA0040.opus (archivo adjunto)
+18/10/23, 16:05 - TSCDIA Paola Navarro: ‎IMG-20231018-WA0041.jpg (archivo adjunto)
+18/10/23, 16:08 - +54 9 351 342-3160: a ok, entonces pudiste hacer el código para subir el excel a mysql con todo los registros.
+18/10/23, 16:08 - +54 9 351 342-3160: los hiciste con alguna librería en especial.
+18/10/23, 16:09 - TSCDIA - Mateo Beltramone: ‎PTT-20231018-WA0042.opus (archivo adjunto)
+18/10/23, 16:09 - +54 9 351 342-3160: a ok
+18/10/23, 16:11 - +54 9 351 342-3160: aaa pense que lo habia cambiado sil jaja mala mia
+18/10/23, 16:11 - TSCDIA Paola Navarro: La verdad lo hize una  sola vez Gonza..Ni estoy segura bien como lo hice....Pero probando me di cta que armo esas tablas😂😂
+18/10/23, 16:13 - +54 9 351 342-3160: a ok
+18/10/23, 16:13 - TSCDIA Paola Navarro: Lo chequee con Sil si no lo habia echo ella y me dijo que se hacen de manera automatica si el excel esta bien encuadrado o algo asi
+18/10/23, 16:14 - +54 9 351 342-3160: ok
+18/10/23, 18:36 - Silvana Godoy: El Excel que subí aquí el lunes
+18/10/23, 18:40 - TSCDIA Paola Navarro: Claro en Power Bi se trabajo con el Excel que vos subiste Sil..
+18/10/23, 18:42 - Silvana Godoy: Sip
+18/10/23, 18:42 - Silvana Godoy: Ahora lo paso nuevamente
+18/10/23, 18:44 - Silvana Godoy: No se como se hace para compartir el dataset desde powerbi...me parece que hay que tener licencia paga
+18/10/23, 18:44 - Silvana Godoy: ‎LISTA DE EMPRESAS DEL  SP500.xls (archivo adjunto)
+LISTA DE EMPRESAS DEL  SP500.xls
+18/10/23, 18:44 - TSCDIA Paola Navarro: Puede ser..Porque en el celu no me deja hacerlo y me pide la licencia😂😂😂
+18/10/23, 18:45 - TSCDIA Paola Navarro: De la compu me habilito pero no se hasta cuando😅😅😅
+18/10/23, 18:46 - Silvana Godoy: Si un moco xq sé que se puede trabajar de manera colaborativa pero no encuentro la opción
+18/10/23, 18:47 - Silvana Godoy: Cuando lo abrís desde la compu podes ver las tablas?
+18/10/23, 18:49 - TSCDIA Paola Navarro: Si
+18/10/23, 18:50 - Silvana Godoy: Buenísimo
+18/10/23, 18:51 - TSCDIA Paola Navarro: Le pongo diseño automatico??
+18/10/23, 18:52 - TSCDIA Paola Navarro: Claro vas ahi se hacen automaticamente las tablas ..
+18/10/23, 18:59 - Silvana Godoy: ‎Los Data Lovers - Proyecto Integrador -TSCDIA - 2023.pbix (archivo adjunto)
+Los Data Lovers - Proyecto Integrador -TSCDIA - 2023.pbix
+18/10/23, 19:00 - Silvana Godoy: @5493515392155 abrí directamente ese archivo ...algunas relaciones las hice de forma manual, así trabajamos con lo mismo.
+18/10/23, 19:31 - +54 9 351 342-3160: Yo te pregunté porque veía otras relaciones por eso
+19/10/23, 17:54 - Silvana Godoy: Buenass
+19/10/23, 17:55 - TSCDIA - Mateo Beltramone: oa
+19/10/23, 17:55 - Silvana Godoy: paso un pdf con algunos informes que estuve probando.... me comentan sus pareceres porfa
+19/10/23, 17:56 - Silvana Godoy: ‎PDF1-POWER BI.pdf (archivo adjunto)
+PDF1-POWER BI.pdf
+19/10/23, 18:04 - TSCDIA Paola Navarro: Genial Sil👏👏👏💯💯💯
+19/10/23, 18:04 - TSCDIA - Mateo Beltramone: si si
+20/10/23, 16:03 - TSCDIA - Mateo Beltramone: ‎PTT-20231020-WA0033.opus (archivo adjunto)
+20/10/23, 16:10 - TSCDIA Paola Navarro: Buenas tardes Chicos👋👋
+20/10/23, 16:11 - Silvana Godoy: Hola chiquis!
+20/10/23, 16:11 - TSCDIA Paola Navarro: Y el domingo a la mañana como la otra vez que onda para hacer la reunion??
+20/10/23, 16:12 - TSCDIA - Mateo Beltramone: ‎PTT-20231020-WA0035.opus (archivo adjunto)
+20/10/23, 16:13 - Silvana Godoy: Justo les iba avisar que yo no puedo, tengo mi vieja  con problemas de salud, en un rato me estoy yendo para Mendiolaza.
+20/10/23, 16:14 - Silvana Godoy: Allá no tengo conectividad y la verdad que cabeza tampoco
+20/10/23, 16:14 - TSCDIA Paola Navarro: Uyy Sil😔 Espero que pronto se recupere tu mami..
+20/10/23, 16:14 - TSCDIA Paola Navarro: Si mas vale..
+20/10/23, 16:16 - Silvana Godoy: No juntense los que puedan, yo en rato apenas termine de laburar les paso lo de Powerbi...el lunes yo puedo presentarlo no hay drama
+20/10/23, 16:16 - Silvana Godoy: Me preocupa tema base de datos
+20/10/23, 16:17 - TSCDIA Paola Navarro: Danny no lo habia hecho??
+20/10/23, 16:18 - Silvana Godoy: Danny, Mateo y Gonza, no sé si han podido avanzar
+20/10/23, 16:20 - +54 9 351 342-3160: yo estoy intentando subir de una la base de datos a mysql
+20/10/23, 16:20 - +54 9 351 342-3160: y de hay hacer las consultas
+20/10/23, 16:20 - +54 9 351 342-3160: creo que esta quedando bien
+20/10/23, 16:20 - +54 9 351 342-3160: pero es un creo muy grande
+20/10/23, 16:20 - +54 9 351 342-3160: je
+20/10/23, 16:21 - TSCDIA Paola Navarro: Y bueno estamos aprendiendo...
+20/10/23, 16:21 - +54 9 351 342-3160: que lastima lo de tu mami sil, no te preocupes pro la reunion
+20/10/23, 16:21 - TSCDIA Paola Navarro: Yo creo que vamos bastante bien...
+20/10/23, 16:21 - +54 9 351 342-3160: ya vamos a ver si nos juntamos con los chicos por lo menos para informar alguna novedad
+20/10/23, 16:22 - TSCDIA Paola Navarro: Dale Gonza avisen y nos juntamos..
+20/10/23, 16:22 - TSCDIA Paola Navarro: Si cuando puedan hacemos un drive..
+20/10/23, 16:35 - Silvana Godoy: 💪🏼💪🏼💪🏼💪🏼💪🏼
+20/10/23, 16:37 - Silvana Godoy: En rato te paso por aquí los archivos para que suba al Github
+20/10/23, 17:15 - TSCDIA Danny: Yo el domingo puedo
+20/10/23, 17:15 - TSCDIA Danny: Yo a la base y al DER, bueno quedó como lo había hecho la otra vez. Esta noche cuando vuelva de trabajar puedo subirlo al Trello
+20/10/23, 17:20 - Silvana Godoy: ‎Los Data Lovers - Proyecto Integrador -TSCDIA - 2023-1.pbix (archivo adjunto)
+Los Data Lovers - Proyecto Integrador -TSCDIA - 2023.pbix
+20/10/23, 17:20 - Silvana Godoy: ‎PDF-POWER BI- envío 20-10-2023.pdf (archivo adjunto)
+PDF-POWER BI- envío 20-10-2023.pdf
+20/10/23, 17:20 - Silvana Godoy: falta más por hacer, pero para mostrar el lunes + el avance de bbdd creo que es suficiente
+20/10/23, 17:32 - +54 9 351 342-3160: ok
+20/10/23, 17:32 - +54 9 351 342-3160: ya lo subo
+20/10/23, 17:34 - Silvana Godoy: Cuando se junten porfa  vean si se entiende, si tiene coherencia, sentido...
+20/10/23, 17:36 - TSCDIA Paola Navarro: Yo no tengo problemas de juntarme hoy o el domingo ...Cuando decida la mayoria
+20/10/23, 17:43 - TSCDIA Danny: Domingo
+20/10/23, 17:43 - TSCDIA Danny: Así vemos todo?
+20/10/23, 17:45 - +54 9 351 342-3160: ok
+20/10/23, 17:45 - +54 9 351 342-3160: yo no tendria problemas
+23/10/23, 13:18 - TSCDIA - Mateo Beltramone: ‎PTT-20231023-WA0021.opus (archivo adjunto)
+23/10/23, 13:23 - TSCDIA Paola Navarro: Se super entiende Mateo,a  todos por ahi se nos puede  complicar..Pero creo que no estamos mal..Me parece que estamos bastante  bien en porcentaje del proyecto..No se que opina el resto??
+23/10/23, 13:23 - TSCDIA Paola Navarro: Ayer con las votaciones se complico todo un poco y varios rendiamos otras materias..
+23/10/23, 13:28 - TSCDIA Danny: Coincido
+23/10/23, 13:30 - +54 9 351 342-3160: ok mateo no te preocupes
+23/10/23, 13:32 - Silvana Godoy: Hola chicos. Todo bien Mateo, con que podamos mostrar algo de eso hoy más lo de PBI creo que estamos bien
+23/10/23, 13:32 - Silvana Godoy: Tendremos que meterle esta semana pero para hoy creo que estamos bien
+23/10/23, 18:27 - +54 9 351 342-3160: dany
+23/10/23, 18:27 - +54 9 351 342-3160: queres que nos juntemos en una meet antes de entrar a clases?
+23/10/23, 18:27 - +54 9 351 342-3160: o sea todos para ver que decimos
+23/10/23, 18:27 - +54 9 351 342-3160: jaja
+23/10/23, 18:29 - TSCDIA Danny: Estaría
+23/10/23, 18:29 - TSCDIA Danny: Ahora en 15?
+23/10/23, 18:30 - TSCDIA Paola Navarro: Ok👍
+23/10/23, 18:34 - Silvana Godoy: 👍🏼
+23/10/23, 18:35 - +54 9 351 342-3160: si de una
+23/10/23, 18:46 - Silvana Godoy: @5493513423160 ahí te paso otro PBI
+23/10/23, 18:46 - Silvana Godoy: Para que lo subas al Git
+23/10/23, 18:47 - Silvana Godoy: Unos gráficos de evolución 2023 SP500  BITCOIN , ORO, PETRÓLEO y DOLAR
+23/10/23, 18:48 - Silvana Godoy: No está terminado pero sumará
+23/10/23, 18:48 - Silvana Godoy: ‎Los Data Lovers - Distintos Activos Financieros.pbix (archivo adjunto)
+Los Data Lovers - Distintos Activos Financieros.pbix
+23/10/23, 18:48 - TSCDIA Danny: Okis
+23/10/23, 18:48 - TSCDIA Danny: Hacemos meet??
+23/10/23, 18:49 - Silvana Godoy: Como ya o hay tiempo
+23/10/23, 18:50 - +54 9 351 342-3160: ya lo subo
+23/10/23, 18:50 - +54 9 351 342-3160: si de una hagamos
+23/10/23, 18:51 - +54 9 351 342-3160: https://meet.google.com/kuz-sgfi-ywm
+23/10/23, 18:51 - +54 9 351 342-3160: https://meet.google.com/zvt-btbt-aih
+23/10/23, 18:51 - +54 9 351 342-3160: esa es jaja
+23/10/23, 19:17 - +54 9 351 342-3160: eee tengo un ausente wtf
+23/10/23, 19:20 - Silvana Godoy: Pero faltaste o no?
+23/10/23, 19:20 - +54 9 351 342-3160: yo creo que no
+23/10/23, 19:20 - +54 9 351 342-3160: ya ni me acuerdo
+23/10/23, 19:21 - TSCDIA Paola Navarro: Yo me parece que tambien me figuro una falta y no falte ..
+23/10/23, 19:22 - TSCDIA Paola Navarro: Pero por ahi se me paso poner algun dia la asistencia...
+23/10/23, 19:24 - TSCDIA Paola Navarro: Pero estoy segura que no falte ninguna clase
+23/10/23, 19:24 - +54 9 351 342-3160: debe ser eso en mi caso
+23/10/23, 19:24 - +54 9 351 342-3160: seguro
+23/10/23, 19:25 - TSCDIA Paola Navarro: Puede ser...
+23/10/23, 19:33 - Silvana Godoy: y no falte nunca pero no alcancé a ver... veremos cuando pase el informe
+23/10/23, 19:33 - Silvana Godoy: nosotros muy preocupados con la presentación y nada..jaja
+23/10/23, 19:33 - Silvana Godoy: todo muy light
+23/10/23, 19:34 - +54 9 351 342-3160: si jajaja
+23/10/23, 19:34 - +54 9 351 342-3160: danny
+23/10/23, 19:35 - +54 9 351 342-3160: vos me dijiste que pudiste cargar masivamente el excel a mysql por phyton no?
+23/10/23, 19:37 - Silvana Godoy: en serio?
+23/10/23, 19:39 - TSCDIA Danny: No, no
+23/10/23, 19:39 - TSCDIA Danny: Quizás fue @5493512339268
+23/10/23, 19:40 - +54 9 351 342-3160: era si no, para pregutnar a la profe si se puede hacer jajaj
+23/10/23, 19:40 - +54 9 351 342-3160: si ella tiene una idea.
+23/10/23, 19:41 - TSCDIA Danny: Pregunta
+23/10/23, 19:41 - TSCDIA Danny: Yo me quedé sin internet lpm
+23/10/23, 19:42 - Silvana Godoy: ahh
+23/10/23, 19:43 - Silvana Godoy: @5493513423160 abrí microfono de pecho
+23/10/23, 19:43 - Silvana Godoy: y preguunta
+23/10/23, 19:43 - TSCDIA Paola Navarro: Es Genial nuestro equipo👏👏👏❤❤💯💯💯
+23/10/23, 19:43 - Silvana Godoy: apenas termine este chico
+23/10/23, 19:49 - +54 9 351 342-3160: no pense que era necesario esa parte
+23/10/23, 19:49 - Silvana Godoy: no hace falta
+23/10/23, 19:49 - +54 9 351 342-3160: o se refiere al CRUD
+23/10/23, 19:49 - Silvana Godoy: no era, lo dijeron cdo nos dieron el proyecto
+23/10/23, 19:49 - Silvana Godoy: crud tampaco
+23/10/23, 19:49 - Silvana Godoy: pero me gustaria hacerlo
+23/10/23, 19:53 - Silvana Godoy: metete ahora Gonza
+23/10/23, 20:01 - TSCDIA - Mateo Beltramone: ‎PTT-20231023-WA0061.opus (archivo adjunto)
+23/10/23, 20:01 - +54 9 351 342-3160: jajaj
+23/10/23, 20:01 - +54 9 351 342-3160: que paso mateo
+23/10/23, 20:01 - TSCDIA - Mateo Beltramone: Estoy en dos clases
+23/10/23, 20:02 - TSCDIA - Mateo Beltramone: Es difícil escuchar
+23/10/23, 20:02 - +54 9 351 342-3160: aaa jaja
+23/10/23, 20:02 - +54 9 351 342-3160: nada importante la verdad
+23/10/23, 20:02 - +54 9 351 342-3160: despues pasamos un resumen
+23/10/23, 20:02 - +54 9 351 342-3160: pero dio las fechas
+23/10/23, 20:02 - TSCDIA - Mateo Beltramone: Ok
+23/10/23, 20:02 - +54 9 351 342-3160: es lo mas importante
+23/10/23, 20:03 - Silvana Godoy: @5493513423160 te ocupas vos de ver ese script
+23/10/23, 20:04 - +54 9 351 342-3160: si
+23/10/23, 20:04 - +54 9 351 342-3160: de una
+23/10/23, 20:04 - Silvana Godoy: ahora te paso el excel definitivo por las dudas
+23/10/23, 20:04 - +54 9 351 342-3160: dale pasamelo
+23/10/23, 20:11 - Silvana Godoy: ‎LISTA DE EMPRESAS DEL  SP500-1.xls (archivo adjunto)
+LISTA DE EMPRESAS DEL  SP500.xls
+23/10/23, 20:12 - Silvana Godoy: la solapa composición tiene toda la info, las otras son los desagredados
+23/10/23, 20:15 - +54 9 351 342-3160: si lo guardas en csv solo te guarda una hoja
+23/10/23, 21:44 - Silvana Godoy: Entonces que sea esa...está bien tiene toda la información
+23/10/23, 22:25 - +54 9 351 342-3160: Ok
+25/10/23, 17:08 - +54 9 351 342-3160: @5493515604850 @5493512339268 esta noche nos juntamos a ver como anda el código, ahora estoy viendo el codigo de los otros chicos que me dijeron que lo subieron al csv masivamente.
+25/10/23, 17:09 - TSCDIA - Mateo Beltramone: Ok
+25/10/23, 17:51 - TSCDIA Danny: Dale
+25/10/23, 22:01 - TSCDIA - Mateo Beltramone: Chicos tarde una banda pero pude solucionar el problema jajaja
+25/10/23, 22:01 - +54 9 351 342-3160: genial
+25/10/23, 22:01 - +54 9 351 342-3160: yo recien salgo de ingles
+25/10/23, 22:01 - TSCDIA - Mateo Beltramone: me canse y le meti un martillazo jajajaj eso esa seria la solucion imaginaria
+25/10/23, 22:02 - +54 9 351 342-3160: queres que lo veamos mas tarde?
+25/10/23, 22:02 - TSCDIA - Mateo Beltramone: dale
+25/10/23, 22:02 - +54 9 351 342-3160: a que hora esas desocupado jaja
+25/10/23, 22:02 - TSCDIA - Mateo Beltramone: ahora tengo que salir justo, vuelvo tipo 23:30
+25/10/23, 22:02 - +54 9 351 342-3160: dale
+25/10/23, 22:03 - +54 9 351 342-3160: a esa nos juntamos, es para que dar un pequeño resumen y ver de subir
+25/10/23, 22:03 - +54 9 351 342-3160: para que todo lo tengamos
+25/10/23, 22:03 - +54 9 351 342-3160: en el git y trello
+25/10/23, 22:03 - +54 9 351 342-3160: yo me voy a alimentar ahora
+25/10/23, 22:04 - TSCDIA - Mateo Beltramone: eu... yo hice lo de pandas, con la bibloteca.... eso ya lo hizo alguien??
+25/10/23, 22:05 - +54 9 351 342-3160: yo estuve viendo algo de eso
+25/10/23, 22:06 - TSCDIA - Mateo Beltramone: osea, eso es lo que hice yo, me saltaban problemas con una clase que habia creado para hacer una parte
+25/10/23, 22:06 - TSCDIA - Mateo Beltramone: por eso la tardanza
+25/10/23, 22:11 - +54 9 351 342-3160: ok
+25/10/23, 22:11 - +54 9 351 342-3160: despues lo vemos bien
+26/10/23, 8:37 - Silvana Godoy: Buen día chiquis!
+26/10/23, 8:38 - Silvana Godoy: Chicos pudieron avanzar algo con la bbdd?. El plazo nos empieza a soplar la nuca.
+26/10/23, 8:38 - Silvana Godoy: Hoy voy a retomar el análisis de PBI.
+26/10/23, 8:40 - Silvana Godoy: @5491150576958 @5493515057592 @5493515392155 podrían buscar info sobre cómo documentar un proyecto y normas APA? de preferencia en formato tutorial de YouTube, es más rápido de procesar. Gracias!
+26/10/23, 8:42 - TSCDIA Paola Navarro: Buen dia Chicos👋👋👋
+26/10/23, 8:42 - TSCDIA Paola Navarro: Ok Sil👍
+26/10/23, 8:44 - TSCDIA Paola Navarro: Se eliminó este mensaje.
+26/10/23, 8:46 - +54 9 11 5057-6958: Hola buen diaaaa
+26/10/23, 8:53 - TSCDIA Paola Navarro: https://youtu.be/HzTF-qX_wN8?si=ayADpjpfvUJslvt9
+26/10/23, 8:53 - TSCDIA Paola Navarro: https://youtu.be/TihqoDQexFY?si=jDjruwJvlhueyITM
+26/10/23, 8:55 - TSCDIA Paola Navarro: https://youtu.be/lQ4B_VNtWdQ?si=MTd-CN9FATnYj0Za
+26/10/23, 8:57 - +54 9 11 5057-6958: https://youtube.com/shorts/icAh4HxjruU?si=I-Qzz0i-Zwk3u3Od
+26/10/23, 9:00 - +54 9 11 5057-6958: https://youtu.be/VBWnb_fGPlg?si=OKn0FdvsTZQVw50e
+26/10/23, 9:18 - Silvana Godoy: @5491150576958 porfa subilo en Trello así queda registro de ti
+26/10/23, 9:19 - Silvana Godoy: Hay una tarjeta llamada Documentación en las tareas en progreso
+26/10/23, 9:19 - +54 9 11 5057-6958: Todos los videos que están aquí?
+26/10/23, 9:22 - Silvana Godoy: Quizás no todos, acá quedarán pero suban algo @5493515392155 y @5493515057592 también
+26/10/23, 9:22 - Silvana Godoy: Gracias chicas!
+26/10/23, 9:23 - TSCDIA Paola Navarro: Ok Subo algunos👍
+26/10/23, 9:42 - Silvana Godoy: @5493513423160 podrías cerrar la reunión retrospectiva 2 con las consultas que hicimos y respuestas de los profes. Y cerrar el sprint 2
+26/10/23, 9:43 - +54 9 11 5057-6958: En documentar? O en la pestaña "tareas en progreso"? Porque veo que Paola copio un link al final de la pestaña
+26/10/23, 9:43 - Silvana Godoy: Perdón que de tantas indicaciones pero debe quedar reflejado en Trello que todos participamos
+26/10/23, 9:44 - Silvana Godoy: Dentro de la tarjeta   Documentación y como un comentario tuyo
+26/10/23, 9:45 - TSCDIA Paola Navarro: Esta perfecto Sil..A mi no me jode ..Al contrario me orienta ya que por ahi, esta buenisimo que alguien coordine😊
+26/10/23, 9:46 - Silvana Godoy: @5493515392155 perdón no vi bien lo que pasaste y por lo que dice Maru deberías cambiar y poner los links según le comenté a Maru
+26/10/23, 9:46 - +54 9 351 342-3160: Si ya lo hago
+26/10/23, 9:46 - TSCDIA Paola Navarro: Pegue los link..
+26/10/23, 9:47 - +54 9 11 5057-6958: X2.
+26/10/23, 9:55 - +54 9 11 5057-6958: Chicos no se si yo cometí un error pero documentar lo borre?
+26/10/23, 9:55 - Silvana Godoy: Si si es pegar los link
+26/10/23, 9:55 - +54 9 11 5057-6958: O no lo veo
+26/10/23, 9:55 - Silvana Godoy: Ahora no estoy en  casa... luego lo veo. Gracias!
+26/10/23, 9:55 - +54 9 11 5057-6958: Estoy en clases y lo intente ver con el celu
+26/10/23, 9:59 - TSCDIA Paola Navarro: Yo tambien lo pegue desde el celu
+26/10/23, 10:08 - Silvana Godoy: No era para ya...jaja
+27/10/23, 17:02 - Silvana Godoy: ‎Composición y Evolución S&P 500 - Los Data Lovers - TSCDIA.pdf (archivo adjunto)
+Composición y Evolución S&P 500 - Los Data Lovers - TSCDIA.pdf
+27/10/23, 17:02 - Silvana Godoy: Buenas... esa sería la versión definitiva, salvo que quieran modificar algo, corregir o agregar algo más
+27/10/23, 17:04 - TSCDIA - Mateo Beltramone: Chicos, el Lunes a la noche podemos juntarnos
+27/10/23, 17:04 - Silvana Godoy: estaría faltando la bbdd y documentar (esto último lo tengo en proceso)
+27/10/23, 17:04 - TSCDIA - Mateo Beltramone: Estoy teniendo dudas en el código
+27/10/23, 17:04 - Silvana Godoy: el lunes hay que presentarlo o no?
+27/10/23, 17:05 - +54 9 351 342-3160: Yo puedo mañana si quieren un rato
+27/10/23, 17:05 - TSCDIA - Mateo Beltramone: Veeeerg..
+27/10/23, 17:05 - TSCDIA - Mateo Beltramone: Trabajo toda la noche
+27/10/23, 17:05 - TSCDIA - Mateo Beltramone: Osea hasta las 1/2am
+27/10/23, 17:06 - TSCDIA - Mateo Beltramone: Si quieren y pueden el domingo
+27/10/23, 17:06 - TSCDIA - Mateo Beltramone: A la mañana
+27/10/23, 17:06 - TSCDIA Paola Navarro: Hola chicos👋👋
+27/10/23, 17:06 - TSCDIA Paola Navarro: Yo puedo mañana o el domingo cuando les quede mas comodo <Se editó este mensaje.>
+27/10/23, 17:07 - Silvana Godoy: Domingo media mañana
+27/10/23, 17:07 - TSCDIA Paola Navarro: Quedo barbaro
+27/10/23, 17:08 - Silvana Godoy: En realidad lo importante es que se coordinen los encargados de la bbdd 😬
+27/10/23, 17:09 - +54 9 351 342-3160: Domingo entonces
+27/10/23, 17:10 - TSCDIA - Mateo Beltramone: ‎PTT-20231027-WA0011.opus (archivo adjunto)
+27/10/23, 18:16 - Silvana Godoy: Es el último database que pasé... Excel... debe estar más arriba en el chat
+27/10/23, 18:48 - TSCDIA - Mateo Beltramone: este??, si es etse ya lo tengo
+27/10/23, 18:48 - +54 9 351 342-3160: Lo había pasado a cvs
+27/10/23, 18:48 - +54 9 351 342-3160: Pero no me acuerdo si o subí al git
+27/10/23, 18:50 - TSCDIA - Mateo Beltramone: hay una base de datos, en realidad un DER en trello, a ese DER
+27/10/23, 18:51 - TSCDIA - Mateo Beltramone: lo pase a scrip
+27/10/23, 19:26 - Silvana Godoy: El último Excel es el completo, el que Gonzalo pasó a cvs
+27/10/23, 19:27 - Silvana Godoy: Ese der era provisorio
+27/10/23, 19:29 - Silvana Godoy: Cuando esté la bbdd descargamos el der de allí....me dijiste que se podía verdad?
+28/10/23, 0:12 - TSCDIA - Mateo Beltramone: Eeee no entendí tu pregunta
+28/10/23, 0:12 - TSCDIA - Mateo Beltramone: Disculpa, tengo 5min y vuelvo al trabajo
+28/10/23, 4:47 - TSCDIA - Mateo Beltramone: bueno chicos, les explico mas o menos, la base de datos el id de industrias debe ser un varchar(10) como indica en el exel y nose, NOSE si esto esta bien escrito en la columna de empresas Industria_Tipo de industria
+28/10/23, 4:48 - TSCDIA - Mateo Beltramone: bueno, si esta mal escrito por que al hacer una consulta sql me salta error
+28/10/23, 4:51 - TSCDIA - Mateo Beltramone: y en otras tablas
+28/10/23, 5:06 - TSCDIA - Mateo Beltramone: cargar una empresa quedaria asi (Ejemplo con la primera): <Se editó este mensaje.>
+28/10/23, 5:16 - TSCDIA - Mateo Beltramone: Se eliminó este mensaje.
+28/10/23, 5:17 - TSCDIA - Mateo Beltramone: ‎IMG-20231028-WA0010.jpg (archivo adjunto)
+30/10/23, 12:09 - +54 9 351 342-3160: buenas chicos
+30/10/23, 12:09 - +54 9 351 342-3160: perdon que estaba medio ausente
+30/10/23, 19:06 - TSCDIA - Mateo Beltramone: Avisen si me nombran
+30/10/23, 19:07 - TSCDIA - Mateo Beltramone: Estoy en dos clases y no se entiende nada
+30/10/23, 19:07 - +54 9 11 5057-6958: Ok
+30/10/23, 19:31 - Silvana Godoy: Buenas
+30/10/23, 19:32 - Silvana Godoy: Pude hacer la bbdd en sqlite usando python y  csv
+30/10/23, 19:34 - TSCDIA - Mateo Beltramone: El script lo subiste
+30/10/23, 19:34 - TSCDIA - Mateo Beltramone: Así puedo terminar la carga de los datos
+30/10/23, 19:37 - Silvana Godoy: No
+30/10/23, 19:37 - Silvana Godoy: Ya cargué todo
+30/10/23, 19:39 - TSCDIA Paola Navarro: Ya veo en un ratoo Sil
+30/10/23, 19:50 - TSCDIA - Mateo Beltramone: Subo lo que hice o no?
+30/10/23, 19:53 - Silvana Godoy: Como quieras, que usaste? Mysql?
+30/10/23, 19:53 - TSCDIA - Mateo Beltramone: Si
+30/10/23, 19:53 - Silvana Godoy: Como no supe más nada del tema ... me largué a hacerlo
+30/10/23, 19:53 - +54 9 351 342-3160: subilo mateo
+30/10/23, 19:53 - TSCDIA - Mateo Beltramone: Ok
+30/10/23, 19:55 - TSCDIA Paola Navarro: Gonzaa te llaman
+30/10/23, 19:55 - +54 9 351 342-3160: si
+30/10/23, 19:55 - +54 9 351 342-3160: jaja
+30/10/23, 19:57 - TSCDIA Paola Navarro: 👏👏👏Bien Gonzaa💯💯
+30/10/23, 19:58 - +54 9 351 342-3160: si, bien sil
+30/10/23, 19:58 - +54 9 11 5057-6958: 👏🏻👏🏻👏🏻👏🏻
+30/10/23, 19:58 - +54 9 351 342-3160: yo estoy hasta mañana a la noche complicado porque estoy estudiando para un parcial que tenia que aprobar si  o si
+30/10/23, 19:58 - +54 9 351 342-3160: disculpa por eso
+30/10/23, 19:58 - +54 9 351 342-3160: a todos les pido disculpa
+30/10/23, 19:59 - +54 9 351 342-3160: estuve haciendo algo del código pero no me funciona.
+30/10/23, 19:59 - Silvana Godoy: ‎crear-tabla.py (archivo adjunto)
+crear-tabla.py
+30/10/23, 19:59 - Silvana Godoy: ‎insertar-csv.py (archivo adjunto)
+insertar-csv.py
+30/10/23, 19:59 - +54 9 351 342-3160: los codigos que realicen chicos, suban al trello y tambien suban a git, deberían tener permiso para eso
+30/10/23, 20:00 - +54 9 351 342-3160: así vamos viendo los codigos.
+30/10/23, 20:00 - Silvana Godoy: ‎indice_sp_500.db (archivo adjunto)
+indice_sp_500.db
+30/10/23, 20:01 - +54 9 351 342-3160: ok sil
+30/10/23, 20:04 - Silvana Godoy: ‎Composición y Evolución S&P 500 - Los Data Lovers - TSCDIA-1.pdf (archivo adjunto)
+Composición y Evolución S&P 500 - Los Data Lovers - TSCDIA.pdf
+30/10/23, 20:10 - Silvana Godoy: El viernes habría que tener listo el video
+30/10/23, 20:12 - Silvana Godoy: Serían 2 minutos cada uno que tenemos que hablar
+30/10/23, 20:28 - Silvana Godoy: https://youtu.be/CFy_k7ENXoc?si=5xMkX2tWepF3O5ND
+30/10/23, 20:29 - Silvana Godoy: https://youtu.be/SPxxDmEnMYw?si=r_u_dIqbDhCKaNOf
+30/10/23, 20:30 - Silvana Godoy: 👆🏼videos en Canvas
+30/10/23, 20:40 - +54 9 351 342-3160: Está bueno
+30/10/23, 20:59 - Silvana Godoy: Que cosa?🤔
+30/10/23, 21:00 - +54 9 351 342-3160: lo de canvas estaba viendo.
+30/10/23, 21:00 - Silvana Godoy: Ahh
+30/10/23, 22:11 - TSCDIA - Mateo Beltramone: Cómo se crea una rama en un repositorio grupal??
+30/10/23, 22:11 - TSCDIA - Mateo Beltramone: Así lo subo a la carpeta
+30/10/23, 22:11 - TSCDIA - Mateo Beltramone: Pero no al main
+30/10/23, 22:17 - +54 9 351 342-3160: Uuu
+30/10/23, 22:18 - +54 9 351 342-3160: No me acuerdo ahora
+30/10/23, 22:30 - TSCDIA - Mateo Beltramone: Ahí lo veo por Google
+30/10/23, 22:43 - Silvana Godoy: https://youtu.be/mCVQgSyjCkI?si=eRLjiIG61QfbrBld
+30/10/23, 22:44 - Silvana Godoy: 👆🏼En esos videitos explica todo
+30/10/23, 22:46 - TSCDIA - Mateo Beltramone: Ok
+30/10/23, 22:46 - TSCDIA - Mateo Beltramone: Si lo estoy viendo a ese mismo
+30/10/23, 22:46 - TSCDIA - Mateo Beltramone: Voy a subir una carpeta
+30/10/23, 22:46 - TSCDIA - Mateo Beltramone: Que tiene todo el código, lo tengo que adaptar para sql lite
+30/10/23, 22:46 - TSCDIA - Mateo Beltramone: Que usaste
+30/10/23, 22:49 - Silvana Godoy: Si el tuyo está listo o te falta poco usamos el tuyo, no hay problemas, el mio es el salvavidas
+30/10/23, 22:50 - Silvana Godoy: Y lo hice con sqlite xq recicle el código que hice en el primer cuatrimestre
+30/10/23, 22:51 - Silvana Godoy: Y además no hay forma de que me corra mysql en mi compu...no sé que mierda hago mal
+30/10/23, 22:51 - TSCDIA - Mateo Beltramone: ‎PTT-20231030-WA0037.opus (archivo adjunto)
+30/10/23, 22:53 - Silvana Godoy: Si yo modofique todo esos campos
+30/10/23, 22:53 - TSCDIA - Mateo Beltramone: Ok
+30/10/23, 22:53 - Silvana Godoy: Ahora te paso los csv
+30/10/23, 22:54 - TSCDIA - Mateo Beltramone: Lo pasaste creo
+30/10/23, 22:54 - Silvana Godoy: No no
+30/10/23, 22:54 - Silvana Godoy: Pase los 2 scrpit y la bbdd
+30/10/23, 22:55 - Silvana Godoy: Me faltaron los csv
+30/10/23, 22:55 - TSCDIA - Mateo Beltramone: ‎PTT-20231030-WA0038.opus (archivo adjunto)
+30/10/23, 22:55 - TSCDIA - Mateo Beltramone: ‎PTT-20231030-WA0039.opus (archivo adjunto)
+30/10/23, 22:56 - Silvana Godoy: ‎Composicion.csv (archivo adjunto)
+Composicion.csv
+30/10/23, 22:56 - Silvana Godoy: ‎Industrias.csv (archivo adjunto)
+Industrias.csv
+30/10/23, 22:56 - Silvana Godoy: ‎Localizacion.csv (archivo adjunto)
+Localizacion.csv
+30/10/23, 22:56 - Silvana Godoy: ‎Sub_Industrias.csv (archivo adjunto)
+Sub_Industrias.csv
+30/10/23, 22:59 - Silvana Godoy: no te sabría decir, no pude hacerla correr ... ya me pasó el cuatrimestre pasado
+30/10/23, 23:00 - Silvana Godoy: así que bueno fijate, sino llegas lo que yo pasé funciona de hecho creo las tablas y puede exportar los archivos desde python usando la librería csv
+30/10/23, 23:01 - Silvana Godoy: falatría agregarle un poco de código con select, update, ese tipo de sentencias
+30/10/23, 23:02 - TSCDIA - Mateo Beltramone: Si, lo que usualmente hago es crear clases para cada tabla que necesite valores
+30/10/23, 23:02 - TSCDIA - Mateo Beltramone: Tipo empresas, localidad, industria y sub industria
+30/10/23, 23:02 - Silvana Godoy: consultas digamos, que ya no llegué hoy
+30/10/23, 23:02 - TSCDIA - Mateo Beltramone: Si una depende de la otra importo datos
+30/10/23, 23:02 - Silvana Godoy: claaro
+30/10/23, 23:02 - Silvana Godoy: pero ya no daba la cabeza
+30/10/23, 23:03 - TSCDIA - Mateo Beltramone: Si si lo c
+30/10/23, 23:03 - TSCDIA - Mateo Beltramone: Volví a tocarlo cuando les mandé el msj de disculpas
+30/10/23, 23:03 - TSCDIA - Mateo Beltramone: Y me costó retomar
+30/10/23, 23:03 - Silvana Godoy: es lo único que falta y el video
+30/10/23, 23:04 - Silvana Godoy: el dasboard esta listo, la documentación del proyecto tbm
+31/10/23, 18:57 - Silvana Godoy: Buenass
+31/10/23, 18:57 - TSCDIA - Mateo Beltramone: HOla
+31/10/23, 18:57 - Silvana Godoy: Alguna posibilidad de juntarnos hoy tipo 22?
+31/10/23, 18:57 - Silvana Godoy: Hola Mateo!
+31/10/23, 18:57 - TSCDIA - Mateo Beltramone: yo si
+31/10/23, 18:58 - Silvana Godoy: Para que veamos lo de Canvas y bbdd
+31/10/23, 18:58 - TSCDIA - Mateo Beltramone: ok
+31/10/23, 18:58 - Silvana Godoy: A las 21 tenemos inglés con la Pao por ello digo a las 22 22:15
+31/10/23, 18:59 - Silvana Godoy: Esperemos para ver si l resto puede
+31/10/23, 18:59 - Silvana Godoy: @5493513423160 me podes pasar la invitación al git nuevamente porfa
+31/10/23, 19:01 - Silvana Godoy: nunca acepté la primera y se venció, quiero crear mi rama y no puedo xq no soy parte del repo.
+31/10/23, 19:02 - +54 9 351 342-3160: Los_Data_Lovers
+31/10/23, 19:03 - +54 9 351 342-3160: https://github.com/GonEzq/Git---programas-codigo/tree/main/Los_Data_Lovers
+31/10/23, 19:03 - TSCDIA- Nahir Guzmán: Buenass, yo si puedo
+31/10/23, 19:07 - TSCDIA - Mateo Beltramone: eee, no esta lo que subi ayer
+31/10/23, 19:08 - +54 9 351 342-3160: vi que si de un excel
+31/10/23, 19:08 - +54 9 351 342-3160: entro a rendir yo ahora despues los veo
+31/10/23, 19:08 - TSCDIA - Mateo Beltramone: https://github.com/GonEzq/Los_Data_Lovers.git
+31/10/23, 19:08 - TSCDIA - Mateo Beltramone: son dos repositorios distinto, agregame al que es
+31/10/23, 19:08 - +54 9 11 5057-6958: Hola. Sil. Muy bien estaré conectada 👍🏼
+31/10/23, 19:09 - Silvana Godoy: Ahh me parecía... xq no te veía Mateo
+31/10/23, 19:10 - Silvana Godoy: Éxitos!!!
+31/10/23, 19:11 - Silvana Godoy: Si después vemos lo del Git ....hay lío ahí
+31/10/23, 19:13 - TSCDIA Paola Navarro: Hola Chicos👋👋
+31/10/23, 19:13 - TSCDIA Paola Navarro: Yo si puedo
+31/10/23, 19:26 - TSCDIA Danny: Hola, siii
+31/10/23, 22:01 - Silvana Godoy: avisen cuando esten listos
+31/10/23, 22:02 - Silvana Godoy: @5493513423160 como te fue en tu examen?
+31/10/23, 22:02 - +54 9 351 342-3160: Bien creo ja
+31/10/23, 22:03 - TSCDIA Paola Navarro: Que tenias hoy Gonza??
+31/10/23, 22:04 - +54 9 351 342-3160: Era una materia de mecatrónica
+31/10/23, 22:04 - +54 9 351 342-3160: Automacion industrial
+31/10/23, 22:04 - +54 9 351 342-3160: Se llama
+31/10/23, 22:05 - TSCDIA Paola Navarro: Genial!!👏👏💪
+31/10/23, 22:06 - TSCDIA Paola Navarro: Recien con Sil nos dijeron que vamos a promocion en Ingles...Asi que preparar el coloquio
+31/10/23, 22:06 - TSCDIA Danny: Avisen link
+31/10/23, 22:06 - +54 9 11 5057-6958: ☝🏼
+31/10/23, 22:07 - Silvana Godoy: Si no sé si prefiero regular...encima capaz ni nos toque nuestra profe
+31/10/23, 22:09 - Silvana Godoy: @5493512339268 @5493513423160  están?
+31/10/23, 22:11 - TSCDIA - Mateo Beltramone: ‎PTT-20231031-WA0055.opus (archivo adjunto)
+31/10/23, 22:11 - +54 9 351 342-3160: Ahora entro
+31/10/23, 22:13 - TSCDIA - Mateo Beltramone: Link? <Se editó este mensaje.>
+31/10/23, 22:13 - Silvana Godoy: Ahora armo
+31/10/23, 22:13 - TSCDIA Danny: Okkk
+31/10/23, 22:15 - Silvana Godoy: https://meet.google.com/xtr-hvuw-szu
+31/10/23, 22:27 - TSCDIA - Mateo Beltramone: https://trello.com/1/cards/6515a414c24b34475a95b1ad/attachments/6536ecd87aaa99eb112bc20d/download/DB_PROGRAMACION.mwb
+31/10/23, 22:28 - TSCDIA - Mateo Beltramone: https://github.com/GonEzq/Los_Data_Lovers
+31/10/23, 22:31 - TSCDIA - Mateo Beltramone: https://trello.com/c/3kqZQk5d/8-base-de-datos
+31/10/23, 22:32 - Silvana Godoy: ‎IMG-20231031-WA0057.jpg (archivo adjunto)
+31/10/23, 22:50 - TSCDIA - Mateo Beltramone: git clone -b nombre-de-la-rama URL-del-repositorio
+31/10/23, 23:01 - Silvana Godoy: ‎IMG-20231031-WA0059.jpg (archivo adjunto)
+31/10/23, 23:13 - TSCDIA Paola Navarro: Para unirte a la reunión en Google Meet, haz clic en este vínculo: 
+https://meet.google.com/wbb-fzso-usr 
+ 
+O abre Meet y escribe este código: wbb-fzso-usr
+31/10/23, 23:16 - Silvana Godoy: ‎Composicion.csv (archivo adjunto)
+Composicion.csv
+31/10/23, 23:17 - TSCDIA - Mateo Beltramone: con el scrip para crear la DB esta perfect
+31/10/23, 23:18 - Silvana Godoy: ‎Industrias.csv (archivo adjunto)
+Industrias.csv
+31/10/23, 23:18 - Silvana Godoy: ‎Localizacion.csv (archivo adjunto)
+Localizacion.csv
+31/10/23, 23:20 - Silvana Godoy: ‎Sub_Industrias.csv (archivo adjunto)
+Sub_Industrias.csv
+31/10/23, 23:20 - Silvana Godoy: esos son csv definitivos
+31/10/23, 23:21 - Silvana Godoy: ‎codigo-para-tabla -inicial.py (archivo adjunto)
+codigo-para-tabla -inicial.py
+31/10/23, 23:21 - Silvana Godoy: ‎crear-tabla.py (archivo adjunto)
+crear-tabla.py
+31/10/23, 23:55 - Silvana Godoy: ‎FACT COSTO GCIA.jpg (archivo adjunto)
+FACT COSTO GCIA.jpg
+31/10/23, 23:55 - Silvana Godoy: ‎ETFs2022.jpg (archivo adjunto)
+ETFs2022.jpg
+31/10/23, 23:55 - Silvana Godoy: ‎EVOL ULTIMA DECADA.jpg (archivo adjunto)
+EVOL ULTIMA DECADA.jpg
+31/10/23, 23:55 - Silvana Godoy: ‎IMG-20231031-WA0035.jpg (archivo adjunto)
+31/10/23, 23:55 - Silvana Godoy: ‎SP500-OTROS ACTIVOS.jpg (archivo adjunto)
+SP500-OTROS ACTIVOS.jpg
+31/10/23, 23:55 - Silvana Godoy: ‎SP500-FAANG.jpg (archivo adjunto)
+SP500-FAANG.jpg
+31/10/23, 23:56 - +54 9 351 342-3160: mandame un foto de como se ve mateo
+1/11/23, 0:23 - TSCDIA- Nahir Guzmán: .
+1/11/23, 0:23 - TSCDIA- Nahir Guzmán: .
+1/11/23, 0:23 - TSCDIA- Nahir Guzmán: si no tienenproblema, me gustaría explicar estos dos
+1/11/23, 0:24 - +54 9 11 5057-6958: .
+1/11/23, 0:24 - +54 9 11 5057-6958: .
+1/11/23, 0:24 - +54 9 11 5057-6958: Voy con esos
+1/11/23, 0:25 - Silvana Godoy: https://youtu.be/CFy_k7ENXoc?si=5xMkX2tWepF3O5ND
+1/11/23, 0:40 - TSCDIA - Mateo Beltramone: estoy con problemas del audio pero los escuche todo asi que si tranqui
+1/11/23, 0:43 - +54 9 351 342-3160: no se olviden de poner comentarios en la tarjeta de trello de la weekly 8
+1/11/23, 0:43 - Silvana Godoy: Si porfa
+1/11/23, 0:44 - Silvana Godoy: Que descansen!😘
+1/11/23, 12:59 - +54 9 351 342-3160: El titulo del proyecto es "índice Standard & Poor's 500"
+1/11/23, 12:59 - +54 9 351 342-3160: Estaria bien
+1/11/23, 12:59 - +54 9 351 342-3160: ?
+1/11/23, 13:10 - Silvana Godoy: Buenas
+1/11/23, 13:10 - Silvana Godoy: Sip
+1/11/23, 13:10 - Silvana Godoy: Podrías agregarle al final - Su composición y evolución.
+1/11/23, 13:53 - TSCDIA Danny: ‎PTT-20231101-WA0057.opus (archivo adjunto)
+1/11/23, 14:19 - +54 9 351 342-3160: odio git
+1/11/23, 14:43 - TSCDIA Danny: Creo que con Github desktop es más amigable
+1/11/23, 14:44 - TSCDIA Paola Navarro: Si es cierto...
+1/11/23, 15:13 - +54 9 351 342-3160: un poco
+1/11/23, 15:13 - +54 9 351 342-3160: estoy haciendo las carpetas
+1/11/23, 15:14 - +54 9 351 342-3160: en la rama principal
+1/11/23, 15:15 - +54 9 351 342-3160: ‎IMG-20231101-WA0060.jpg (archivo adjunto)
+1/11/23, 15:41 - TSCDIA - Mateo Beltramone: si si
+1/11/23, 15:42 - TSCDIA - Mateo Beltramone: Ya voy a cambiar el nombre de ese archivo
+1/11/23, 15:42 - TSCDIA - Mateo Beltramone: A sistema DAO
+1/11/23, 15:42 - TSCDIA - Mateo Beltramone: Ajjaja
+1/11/23, 15:42 - +54 9 351 342-3160: ‎IMG-20231101-WA0061.jpg (archivo adjunto)
+1/11/23, 16:16 - +54 9 351 342-3160: muchachos, al final cual era la base de datos en la que vamos a trabajar
+1/11/23, 16:17 - +54 9 351 342-3160: ‎IMG-20231101-WA0062.jpg (archivo adjunto)
+yo subi esa que tenia en la carpeta mia.
+1/11/23, 16:17 - +54 9 351 342-3160: pero no se si es la correcta
+1/11/23, 16:51 - Silvana Godoy: Nop, dice Mateo que usaremos la Danny perola versión que está en el Trello está desactualizada
+1/11/23, 16:52 - Silvana Godoy: @5493515604850 porfis coordinate con Gonza por ese👆🏼tema
+1/11/23, 16:52 - Silvana Godoy: Ayer Danny la estuvo modificando durante la meet
+1/11/23, 16:54 - Silvana Godoy: En resumen sería la base actualizada de Danny y el código que está terminando Mateo
+1/11/23, 16:56 - Silvana Godoy: Se me acaba de ocurrir que tu video Gonza puede ser sobre Trello y Git y el Mateo y Danny base de datos...no sé que te parece
+1/11/23, 17:01 - TSCDIA - Mateo Beltramone: ‎PTT-20231101-WA0063.opus (archivo adjunto)
+1/11/23, 17:01 - TSCDIA - Mateo Beltramone: ‎PTT-20231101-WA0064.opus (archivo adjunto)
+1/11/23, 17:19 - TSCDIA Danny: ‎PTT-20231101-WA0065.opus (archivo adjunto)
+1/11/23, 20:57 - +54 9 351 342-3160: jajaj
+1/11/23, 20:57 - +54 9 351 342-3160: si de una
+1/11/23, 20:57 - +54 9 351 342-3160: yo te iba consultar si teniamos que hablar de trello
+1/11/23, 20:57 - +54 9 351 342-3160: y las herramientas que usamos
+1/11/23, 20:57 - +54 9 351 342-3160: en el video
+2/11/23, 10:26 - Silvana Godoy: Sí quedaría buenísimo hablar de todo lo que usamos
+2/11/23, 10:27 - Silvana Godoy: @5493512339268 por las ....están habilitados los recuperatarios de bbdd
+2/11/23, 10:27 - Silvana Godoy: Y sií los vídeos mañana a última hora
+2/11/23, 10:28 - Silvana Godoy: Para procesarlos el sábado y en meet del domingo ver como quedó y que se puede mejorar o cambiar
+2/11/23, 11:25 - TSCDIA - Mateo Beltramone: Si, hoy lo tengo que hacer
+2/11/23, 22:37 - +54 9 351 342-3160: tas a ful dani entrello jaja
+2/11/23, 22:38 - TSCDIA - Mateo Beltramone: ‎PTT-20231102-WA0070.opus (archivo adjunto)
+2/11/23, 22:38 - TSCDIA Danny: Jajajaja. Si, estábamos afinando detalles con Mateo
+2/11/23, 22:38 - TSCDIA - Mateo Beltramone: ‎PTT-20231102-WA0071.opus (archivo adjunto)
+2/11/23, 22:38 - TSCDIA Danny: Pero camina
+2/11/23, 22:38 - TSCDIA Danny: De una chango
+2/11/23, 22:38 - TSCDIA Danny: Después hay que coordinar para ver bien el tema de los vídeos @5493513423160
+2/11/23, 22:46 - +54 9 351 342-3160: sisi
+2/11/23, 22:47 - +54 9 351 342-3160: jaja
+2/11/23, 22:47 - +54 9 351 342-3160: esta bien
+2/11/23, 22:47 - +54 9 351 342-3160: me dio gracia nomas que esta con un monton de mail jaja
+2/11/23, 22:48 - TSCDIA Danny: Ahhh. Jajajaja
+3/11/23, 13:55 - TSCDIA - Mateo Beltramone: ‎IMG-20231103-WA0002.jpg (archivo adjunto)
+Hora de la verdad
+3/11/23, 15:12 - TSCDIA - Mateo Beltramone: Me saltaron 500 errores
+3/11/23, 15:12 - TSCDIA - Mateo Beltramone: Estoy buscandolos
+3/11/23, 15:37 - +54 9 351 342-3160: jaja
+3/11/23, 15:37 - +54 9 351 342-3160: lo tenes subido al git
+3/11/23, 15:37 - +54 9 351 342-3160: ?
+3/11/23, 16:18 - Silvana Godoy: Tampoco creo que sean 500...jaja
+3/11/23, 16:19 - Silvana Godoy: @5493515057592 ya cumplió enviando su video 👏🏼👏🏼👏🏼
+3/11/23, 16:32 - +54 9 351 342-3160: lo hacíamos al video, con las vos y la foto nuestro no?
+3/11/23, 16:33 - Silvana Godoy: Al inicio de tu video pone una foto tuya y tus datos
+3/11/23, 16:35 - +54 9 351 342-3160: ma ve, mostra una fotito del inicio para que estemos todo iguales
+3/11/23, 16:35 - +54 9 351 342-3160: usaron alguna plantilla en especial?
+3/11/23, 16:43 - TSCDIA- Nahir Guzmán: yo sólo les puse un fondo negro y ajuste las imágenes nada más
+3/11/23, 16:44 - TSCDIA- Nahir Guzmán: ‎IMG-20231103-WA0006.jpg (archivo adjunto)
+3/11/23, 16:44 - +54 9 351 342-3160: a ok
+3/11/23, 16:44 - TSCDIA- Nahir Guzmán: ‎IMG-20231103-WA0007.jpg (archivo adjunto)
+3/11/23, 17:04 - TSCDIA - Mateo Beltramone: pudeee
+3/11/23, 17:04 - TSCDIA - Mateo Beltramone: puedeeee
+3/11/23, 17:05 - TSCDIA - Mateo Beltramone: eu silvi, te voy a tener que pasar el video mas tarde, no llego a grabarlo hoy
+3/11/23, 17:11 - TSCDIA - Mateo Beltramone: Encontré el puto error
+3/11/23, 17:11 - TSCDIA - Mateo Beltramone: Eran 4
+3/11/23, 17:11 - TSCDIA - Mateo Beltramone: Creo
+3/11/23, 17:11 - TSCDIA - Mateo Beltramone: Primer error:
+3/11/23, 17:15 - TSCDIA - Mateo Beltramone: ‎IMG-20231103-WA0008.jpg (archivo adjunto)
+df = pd.read_exel colo que y era excel
+3/11/23, 17:16 - TSCDIA - Mateo Beltramone: En el exel falta una sub industria es nesesario colocarla
+3/11/23, 17:16 - TSCDIA - Mateo Beltramone: ‎IMG-20231103-WA0009.jpg (archivo adjunto)
+3/11/23, 17:16 - TSCDIA - Mateo Beltramone: esta es
+3/11/23, 17:19 - TSCDIA - Mateo Beltramone: ‎IMG-20231103-WA0010.jpg (archivo adjunto)
+Las consultas me daban una matriz
+3/11/23, 17:20 - TSCDIA - Mateo Beltramone: ‎IMG-20231103-WA0011.jpg (archivo adjunto)
+McDonald's me daba un error con el ' asi que asi lo solucione
+3/11/23, 17:23 - TSCDIA - Mateo Beltramone: No c si dany hizo los arreglos al Diagrama con el id_tabla
+3/11/23, 17:24 - TSCDIA - Mateo Beltramone: ‎LISTA DE EMPRESAS DEL SP500.xls (archivo adjunto)
+LISTA DE EMPRESAS DEL SP500.xls
+3/11/23, 17:24 - TSCDIA Danny: Nou
+3/11/23, 17:24 - TSCDIA Danny: Ya los cambio cuando vuelva a casa. Jajajaja
+3/11/23, 17:25 - TSCDIA - Mateo Beltramone: ok, igual aún tengo que ver como muestro los datos
+3/11/23, 17:30 - +54 9 351 342-3160: cuanto dura
+3/11/23, 17:30 - +54 9 351 342-3160: ?
+3/11/23, 17:32 - Silvana Godoy: 2:15 máx... hay que hablar rapidito, escribí las ideas y luego las lees cuando te grabes
+3/11/23, 17:32 - Silvana Godoy: Esos son los que más odio dan
+3/11/23, 17:33 - Silvana Godoy: Ahh mira... revise tantas veces y nunca ví ese faltante
+3/11/23, 17:35 - Silvana Godoy: Fíjate porfa para tenerlo mañana más tardar medio día....no sé cuanto me tomará hacerlo
+3/11/23, 17:36 - TSCDIA - Mateo Beltramone: ‎PTT-20231103-WA0012.opus (archivo adjunto)
+3/11/23, 17:36 - TSCDIA - Mateo Beltramone: Está noche te lo hago
+3/11/23, 17:36 - TSCDIA - Mateo Beltramone: Cuando llegue de trabajar
+3/11/23, 17:36 - Silvana Godoy: Ajaja
+3/11/23, 17:39 - TSCDIA - Mateo Beltramone: ‎PTT-20231103-WA0013.opus (archivo adjunto)
+3/11/23, 23:55 - Silvana Godoy: Chicos favor de pasar el link del video y también el video en mp4 o sea en el formato que los van a descargar
+3/11/23, 23:56 - Silvana Godoy: Veo que se puede editar de las dos maneras veré cual más rápida y con mejor resultado. Gracias!
+4/11/23, 0:03 - TSCDIA Danny: Siiil
+4/11/23, 0:03 - TSCDIA Danny: Para mañana si o si el vídeo?
+4/11/23, 0:08 - Silvana Godoy: Si por favor Danny, en realidad habíamos acordado para hoy.
+4/11/23, 0:09 - Silvana Godoy: Mañana luego del mediodía voy a trabajar con eso y debo tenerlos a todos,  el domingo hay que presentar todo.
+4/11/23, 0:10 - TSCDIA Danny: Dale
+4/11/23, 0:10 - TSCDIA Danny: Cuando vuelva me pongo con eso
+4/11/23, 8:50 - Silvana Godoy: ‎STK-20231104-WA0003.webp (archivo adjunto)
+4/11/23, 8:51 - Silvana Godoy: Cuenta regresiva.... de lo contrario el último que mandé el video deberá editarlo completo😬
+4/11/23, 8:52 - Silvana Godoy: Que tengan lindo día!
+4/11/23, 9:10 - TSCDIA - Mateo Beltramone: Ok
